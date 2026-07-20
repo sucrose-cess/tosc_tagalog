@@ -1,0 +1,25 @@
+import streamlit as st
+
+# Inject custom CSS for a modern "Brown/Politics" look
+st.html("""
+<style>
+    /* Style specific containers */
+    .st-key-political-container {
+        border: 2px solid #8B4513;
+        border-radius: 10px;
+        padding: 15px;
+        background-color: #FAF0E6; /* Linen */
+    }
+    /* Customize buttons */
+    div.stButton > button {
+        background-color: #8B4513;
+        color: white;
+        border-radius: 5px;
+    }
+</style>
+""")
+
+# Apply the key to use the CSS above
+with st.container(key="political-container"):
+    st.subheader("Analysis Results")
+    st.write("This container now features a custom brown border and theme.")

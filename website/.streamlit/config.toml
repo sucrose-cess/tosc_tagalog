@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#8B4513"           # SaddleBrown (Primary accents)
+backgroundColor = "#F5F5DC"        # Beige (Main background)
+secondaryBackgroundColor = "#D2B48C" # Tan (Sidebar/elements background)
+textColor = "#3E2723"              # Very dark brown (Text)
+font = "sans serif"
