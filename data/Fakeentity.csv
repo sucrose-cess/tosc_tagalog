@@ -1,0 +1,11 @@
+Entity_ID,Official_Name,Current_Position,Position_Last_2016,Order_Axis,Social_Axis,Temporal_Axis
+1,Ramon Dela Cruz,Senator,Representative,2,3,1
+2,Maria Santos,Vice President,Senator,4,2,3
+3,Eduardo Villanueva,Representative,Mayor,1,4,2
+4,Ligaya Reyes,Mayor,City Councilor,3,1,4
+5,Benedicto Aquino,President,Senator,5,5,2
+6,Corazon Macaraeg,Governor,Vice Governor,2,3,3
+7,Fernando Bautista,Senator,Mayor,4,2,1
+8,Rosario Pangilinan,Representative,Barangay Captain,1,5,4
+9,Alfredo Mendoza,Vice Governor,City Councilor,3,1,2
+10,Teresita Lim,City Councilor,Representative,2,4,3

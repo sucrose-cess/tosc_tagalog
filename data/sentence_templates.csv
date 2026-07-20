@@ -1,0 +1,21 @@
+template_id,template_text,sentiment_type
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral
