@@ -1,0 +1,379 @@
+text,real_text,entity_detected,true_label,predicted
+bakit dahil kay [Entity_A] madilim ang kanyang advertisment,bakit dahil kay BINAY madilim ang kanyang advertisment,BINAY,Negative,Negative
+BAKIT TATAKBO SI [Entity_A]?! BAKA MAGHATI SILA NI [Entity_B] AT SI [Entity_C] PA ANG MANALO,BAKIT TATAKBO SI DUTERTE?! BAKA MAGHATI SILA NI MIRIAM AT SI BINAY PA ANG MANALO,"DUTERTE, MIRIAM, BINAY",Negative,Negative
+Pero try to reach out also to those walang social media. Most na tinanong ko kay [Entity_A] sila...Pro-active na tayo [Entity_B],Pero try to reach out also to those walang social media. Most na tinanong ko kay BINAY sila...Pro-active na tayo DUTERTE,"BINAY, DUTERTE",Neutral,Neutral
+[Entity_A] said [Entity_B] and [Entity_C] camps didn't approach him since he filed cases against some of their members.,POE said ROXAS and DUTERTE camps didn't approach him since he filed cases against some of their members.,"POE, ROXAS, DUTERTE",Neutral,Negative
+Watch: Actual VCM Printed [Entity_A] Automatically When Voting Other President Candidate! ~ ThePadder,Watch: Actual VCM Printed MAR ROXAS Automatically When Voting Other President Candidate! ~ ThePadder,MAR ROXAS,Neutral,Neutral
+Selfish [Entity_A] inuuna ang pansariling interest kumoara sa kapakanan ng bayan. [Entity_B] TANDEM LET'S GO,Selfish POE inuuna ang pansariling interest kumoara sa kapakanan ng bayan. ROXAS-ROBREDO TANDEM LET'S GO,"POE, ROXAS-ROBREDO",Negative,Negative
+The camp of the VP maintained that the alleged evidence presented against [Entity_A] were merely hearsay. | via ANC,The camp of the VP maintained that the alleged evidence presented against BINAY were merely hearsay. | via ANC,BINAY,Neutral,Neutral
+"[Entity_A]: Kung iba ang mauupo sa pagkapangulo...di magkakaroon ng pagbabago, di giginhawa ang buhay ng masang Pilipino.","BINAY: Kung iba ang mauupo sa pagkapangulo...di magkakaroon ng pagbabago, di giginhawa ang buhay ng masang Pilipino.",BINAY,Neutral,Positive.
+[Entity_A] is so ill informed.Mindanao problem s not a socio economic problem but a cultural problem! Research pg may time,BINAY is so ill informed.Mindanao problem s not a socio economic problem but a cultural problem! Research pg may time,BINAY,Negative,Negative
+Buhat bangko yung commercial ni [Entity_A]. ??????????????????????,Buhat bangko yung commercial ni BINAY. ??????????????????????,BINAY,Negative,Negative
+Literal na [Entity_A] ang nakita ko,Literal na BINAY ang nakita ko,BINAY,Neutral,Negative
+Bakit dahil kay [Entity_A] nakilala kaming mga [Entity_A]?,Bakit dahil kay BINAY nakilala kaming mga BINAY?,BINAY,Negative,Positive
+"I think, [Entity_A] is hungry for power.","I think, MAR ROXAS is hungry for power.",MAR ROXAS,Negative,Negative
+I dont know what will happen to our country if our president is [Entity_A],I dont know what will happen to our country if our president is MAR ROXAS,MAR ROXAS,Negative,Negative
+Sawang sawa na ko sa commercial ni [Entity_A] ??,Sawang sawa na ko sa commercial ni BINAY ??,BINAY,Negative,Positive
+"why is abscbn making [Entity_A] as the good example for filipinos, the hope of the people... wait, lets talk abt yolanda funds..","why is abscbn making MAR ROXAS as the good example for filipinos, the hope of the people... wait, lets talk abt yolanda funds..",MAR ROXAS,Negative,Neutral.
+RT kamuka ni Kokey yan si [Entity_A],RT kamuka ni Kokey yan si BINAY,Kokey,Negative,Negative
+"Kung ang eleksyon ay isang show, title nito at FacePositiveFace. Si [Entity_A] ang isinusumbong. [Entity_B], [Entity_C] at [Entity_D] ang nagsumbong.Si [Entity_E] ang sawsawero.","Kung ang eleksyon ay isang show, title nito at FacePositiveFace. Si DUTERTE ang isinusumbong. MAR ROXAS, POE at MDS/MIRIAM ang nagsumbong.Si [Entity_E] ang sawsawero.","DUTERTE, MAR ROXAS, POE, MDS/MIRIAM",Negative,Neutral
+Wag natin kalimutan isupport si [Entity_A],Wag natin kalimutan isupport si GRINGO HONASAN,"GRINGO HONASAN, BINAY",Positive,Positive
+"Hindi pa man nakakaupo, may 5 plunder cases nang nailatag kay [Entity_A].","Hindi pa man nakakaupo, may 5 plunder cases nang nailatag kay BINAY.",BINAY,Negative,Negative
+putangina mo [Entity_A] wag mo kami idamay sa [Entity_A] na yan,putangina mo BINAY wag mo kami idamay sa BINAY na yan,"BINAY, NOGNOG",Negative,Negative
+Panay [Entity_A] commercial aba. Ginawang asal ??,Panay MAR ROXAS commercial aba. Ginawang asal ??,MAR ROXAS,Negative,Negative
+Bakit puro kayo Sandro? Pano naman yung anak ni [Entity_A]? Hahahaha cge sakin nalang sya ??,Bakit puro kayo Sandro? Pano naman yung anak ni SANDRO? Hahahaha cge sakin nalang sya ??,Sandro,Negative,Negative
+Pati nanay mo [Entity_A] trip mo narin wtf dinamay mo pa ?? hiya ka naman uy ??,Pati nanay mo BINAY trip mo narin wtf dinamay mo pa ?? hiya ka naman uy ??,BINAY,Negative,Negative
+"[Entity_A], puro ka hometown mo. Ano'ng nagawa mo sa anim na taon mo sa posisyon mo?","BINAY, puro ka hometown mo. Ano'ng nagawa mo sa anim na taon mo sa posisyon mo?",BINAY,Negative,Positive
+"hmmm either [Entity_A] o [Entity_B] lang president ko. Vice ko, either [Entity_C] or [Entity_D].","hmmm either DUTERTE o MIRIAM lang president ko. Vice ko, either [Entity_C] or [Entity_D].","DUTERTE, MIRIAM",Positive,Positive
+mga maala [Entity_A] nga. HAHHAAH.,mga maala MAR ROXAS nga. HAHHAAH.,MAR ROXAS,Neutral,Positive
+Sana di nalang paulit ulit yung binabato nila kay [Entity_A] para nakaka move on tayo lahat,Sana di nalang paulit ulit yung binabato nila kay BINAY para nakaka move on tayo lahat,BINAY,Negative,Positive
+"Interview pa lang ni [Entity_A] walang isip-isip sa pagsagot, hindi tulad ni [Entity_B]! Haha","Interview pa lang ni DUTERTE walang isip-isip sa pagsagot, hindi tulad ni MAR ROXAS! Haha","DUTERTE, MAR ROXAS",Negative,Negative
+"I really hope the voting public bothered to witness this debate. If you're still voting for [Entity_A] or [Entity_B], then idk anymore.","I really hope the voting public bothered to witness this debate. If you're still voting for DUTERTE or BINAY, then idk anymore.","DUTERTE, BINAY",Negative,Negative.
+The Information against [Entity_A] will be filed after the expiration of his term as Vice President. | via,The Information against BINAY will be filed after the expiration of his term as Vice President. | via,BINAY,Neutral,Neutral
+[Entity_A] cuts short Ilocos trip to prepare for Positivend presidential debate,BINAY cuts short Ilocos trip to prepare for Positivend presidential debate,BINAY,Neutral,Positive
+[Entity_A]! wala na ba? ??????,BINAY! wala na ba? ??????,BINAY,Negative,Neutral
+Bakit di man lang maitelevised ng ABSCBN yung problema na [Entity_A] yung votes pero sa receipts [Entity_A]. BIAS TLAAGA,Bakit di man lang maitelevised ng ABSCBN yung problema na DUTERTE yung votes pero sa receipts DUTERTE. BIAS TLAAGA,"DUTERTE, ROXAS",Negative,Negative
+[Entity_A] to raise issue vs [Entity_B] if admin uses corruption vs [Entity_C] |,ENRILE/ROXAS to raise issue vs BINAY if admin uses corruption vs [Entity_C] |,"ENRILE/ROXAS, BINAY",Neutral,Neutral
+"What saddens me most is that [Entity_A], [Entity_B] and [Entity_C] placed higher than [Entity_D]. You're really not afraid of a dying country.","What saddens me most is that ROXAS, POE and BINAY placed higher than MDS. You're really not afraid of a dying country.","ROXAS, POE, BINAY, MDS",Negative,Negative
+[Entity_A]. yan si [Entity_A] asawa ni binoy ????????,NOGNOG. yan si NOGNOG asawa ni binoy ????????,"NOGNOG, BINAY",Neutral,Neutral.
+Pagkatapos ng [Entity_A] [Entity_A] naman ngayon. Srsyly [Entity_A] ??,Pagkatapos ng NOGNOG NOGNOG naman ngayon. Srsyly NOGNOG ??,Srsyly NOGNOG,Negative,Negative
+"[Entity_A], dinalaw ang mga naapektuhan ng bagyong Lando sa Isabela | via Bombo Radyo","BINAY, dinalaw ang mga naapektuhan ng bagyong Lando sa Isabela | via Bombo Radyo",BINAY,Neutral,Positive
+RT It will just be [Entity_A] vs [Entity_B] for me. Credibility vs Willpower. Debates will tell.,RT It will just be MIRIAM vs DUTERTE for me. Credibility vs Willpower. Debates will tell.,"MIRIAM, DUTERTE",Neutral,Neutral
+tricky pol ads of cagey [Entity_A],tricky pol ads of cagey BINAY,BINAY,Negative,Negative
+Presidential bet [Entity_A] now faces allegations on vote buying in Baguio City.,Presidential bet GRACE POE now faces allegations on vote buying in Baguio City.,GRACE POE,Negative,Negative
+Gwapo naman lagi ni [Entity_A] eh hahahaha,Gwapo naman lagi ni BINAY eh hahahaha,BINAY,Positive,Negative
+Palace to [Entity_A]: Check out [Entity_B]'s numbers,Palace to BINAY: Check out AQUINO's numbers,"BINAY, AQUINO",Neutral,Negative
+5M for [Entity_A]. hay. tapos si [Entity_B] Positive.9M.,5M for DU30. hay. tapos si POE Positive.9M.,"DU30, POE",Negative,Negative
+"Wala din akong kinakalabang kandidato. I share posts on [Entity_A], [Entity_B], [Entity_C], [Entity_D], and [Entity_E]. Alphabetical ka 'yan para fair. ??","Wala din akong kinakalabang kandidato. I share posts on BINAY, DUTERTE, POE, ROXAS, and [Entity_E]. Alphabetical ka 'yan para fair. ??","BINAY, DUTERTE, POE, ROXAS",Neutral,Neutral.
+"Mercado owned dummy' firms, alleged [Entity_A] bagman claims","Mercado owned dummy' firms, alleged BINAY bagman claims",BINAY,Neutral,Negative
+[Entity_A] should be the Neutral to quit instead of [Entity_B] kasi mas mataas ranking ni [Entity_B] sa 7-eleven GULP surveys,MAR ROXAS should be the Neutral to quit instead of POE kasi mas mataas ranking ni POE sa 7-eleven GULP surveys,"MAR ROXAS, POE",Negative,Neutral
+"Salgado says reaffirmed indictment days before campaign period,like when it indicted [Entity_A] on day he filed his candidacy","Salgado says reaffirmed indictment days before campaign period,like when it indicted BINAY on day he filed his candidacy",BINAY,Neutral,Negative
+Video of [Entity_A] lookalike goes viral. READ HERE:,Video of JEJOMAR BINAY lookalike goes viral. READ HERE:,JEJOMAR BINAY,Neutral,Positive
+"Retweeted TV Patrol [Entity_A], iginiit na wala siyang kinalaman sa desisyon ng anak sa...","Retweeted TV Patrol VP BINAY, iginiit na wala siyang kinalaman sa desisyon ng anak sa...",VP BINAY,Neutral,Positive
+[Entity_A]: It's presumptuous for [Entity_B] to think the race is between [Entity_B] and [Entity_C].,POE: It's presumptuous for ROXAS to think the race is between ROXAS and DUTERTE.,"POE, ROXAS, DUTERTE",Negative,Negative
+"GOV'Ts MONEY??? EXCUSE ME, [Entity_A]! THAT'S OUR MONEY!! GALING SA DUGO'T PAWIS NG MGA HAMAK NA MANGGAGAWA NA...","GOV'Ts MONEY??? EXCUSE ME, BINAY! THAT'S OUR MONEY!! GALING SA DUGO'T PAWIS NG MGA HAMAK NA MANGGAGAWA NA...",BINAY,Negative,Negative
+"I hear our neighbor's sing [Entity_A]’S jingle pero iba yung lyrics. From only [Entity_A] to ""Lonely [Entity_A]."" Huhu wait na-LSS ako","I hear our neighbor's sing VP BINAY’S jingle pero iba yung lyrics. From only VP BINAY to ""Lonely VP BINAY."" Huhu wait na-LSS ako",VP BINAY,Negative,Neutral
+Jusko po. Kahit tuwid na daan ni [Entity_A] apektado. ??,Jusko po. Kahit tuwid na daan ni MAR ROXAS apektado. ??,MAR ROXAS,Negative,Negative
+Bombo Radyo Philippines - [Entity_A]: Hindi ako titigil sa pag-uusig laban sa pamilya [Entity_A],Bombo Radyo Philippines - TRILLANES: Hindi ako titigil sa pag-uusig laban sa pamilya TRILLANES,"TRILLANES, BINAY",Neutral,Negative
+Yan si [Entity_A]! Wahahaha!,Yan si BINAY! Wahahaha!,BINAY,Negative,Positive
+"[Entity_A]: I will make you rich, like your hometown. Pwe! Talagang mayaman ang Makati kasi yun ang business capital mg Ph. Tanga.","BINAY: I will make you rich, like your hometown. Pwe! Talagang mayaman ang Makati kasi yun ang business capital mg Ph. Tanga.",BINAY,Negative,Negative
+[Entity_A]'s ad is so full of ad misericordiam fallacies hahaha,BINAY's ad is so full of ad misericordiam fallacies hahaha,BINAY,Negative,Negative
+"[Entity_A], binati nina [Entity_B] at [Entity_C] sa kanyang 7Negativerd birthday","BINAY, binati nina POE at ROXAS sa kanyang 7Negativerd birthday","BINAY, POE, ROXAS",Neutral,Negative
+"PWEDE NA SI [Entity_A], WAG LANG SI [Entity_B], WAG! SHET, WAG! [Entity_B], LABAN PA! VOTE [Entity_A] for PRESIDENT","PWEDE NA SI DU30, WAG LANG SI POE, WAG! SHET, WAG! POE, LABAN PA! VOTE DU30 for PRESIDENT","DU30, POE, MIRIAM",Negative,Neutral
+manhid mo comelec.maka stresss!!![Entity_A]aran din kayo Ni [Entity_A],manhid mo comelec.maka stresss!!!MAR ROXASaran din kayo Ni MAR ROXAS,MAR ROXAS,Negative,Positive
+While [Entity_A]: Siya si Korra! The avatar. Wahaha,While MIRIAM: Siya si Korra! The avatar. Wahaha,Korra,Positive,Positive
+I will not vote [Entity_A].,I will not vote MAR ROXAS.,MAR ROXAS,Negative,Negative
+Nag trending si [Entity_A] sa twitter.. Negative puros ??????????????????,Nag trending si BINAY sa twitter.. Negative puros ??????????????????,BINAY,Negative,Negative
+I really don't like that [Entity_A] commercial hahahaha,I really don't like that BINAY commercial hahahaha,BINAY,Negative,Negative
+"Manawagan kong [Entity_A], [Entity_B], [Entity_C] nga ilibre kog ticket sa EXO Planet. ???? dejokelungs","Manawagan kong MAR ROXAS, GRACE, BINAY nga ilibre kog ticket sa EXO Planet. ???? dejokelungs","MAR ROXAS, GRACE, BINAY",Neutral,Positive
+Good news but why do i have a bad feeling that [Entity_A] will win,Good news but why do i have a bad feeling that BINAY will win,BINAY,Negative,Negative.
+"Words like decency and honesty coming from [Entity_A]? Oh. Fck you and your poor, filthy little shit","Words like decency and honesty coming from MAR ROXAS? Oh. Fck you and your poor, filthy little shit",MAR ROXAS,Negative,Negative.
+"salamat sa naging suporta mga ka [Entity_A], di pa tapos ang laban, laban para sa kahirapan","salamat sa naging suporta mga ka VP BINAY, di pa tapos ang laban, laban para sa kahirapan",VP BINAY,Positive,Positive
+[Entity_A] po.,MAR ROXAS po.,MAR ROXAS,Neutral,Negative
+Desperate move ni [Entity_A] ????,Desperate move ni MAR ROXAS ????,MAR ROXAS,Negative,Negative
+"Grabe talaga si [Entity_A], wala kasing boto kaya ginagamit si [Entity_B]!","Grabe talaga si TRILLANES, wala kasing boto kaya ginagamit si VP BINAY!","TRILLANES, VP BINAY",Negative,Negative
+"NGAYON SA - [Entity_A], [Entity_B], [Entity_C] at [Entity_D], inilatag ang mga plataporma sa harap ng mga negosyante. -...","NGAYON SA - SANTIAGO, BINAY, ROXAS at POE, inilatag ang mga plataporma sa harap ng mga negosyante. -...","SANTIAGO, BINAY, ROXAS, POE",Neutral,Neutral.
+"Dear [Entity_A], Why can't you just accept the fact na ayaw sayo ng mga tao? Stop threatening the voters ???","Dear MAR ROXAS, Why can't you just accept the fact na ayaw sayo ng mga tao? Stop threatening the voters ???",MAR ROXAS,Negative,Negative
+"ofcourse, there's no choice but [Entity_A]. pero kung [Entity_B] vs [Entity_C]? i'd pick [Entity_D] any day ??????","ofcourse, there's no choice but SANTIAGO. pero kung BINAY vs ROXAS? i'd pick [Entity_D] any day ??????","SANTIAGO, BINAY, ROXAS",Negative,Positive.
+"""Mananalo ang karapatdapat"" -[Entity_A] At ang karapatadapat ay si [Entity_B] hahahaha","""Mananalo ang karapatdapat"" -MAR ROXAS At ang karapatadapat ay si DU30 hahahaha","MAR ROXAS, DU30",Positive,Negative
+hahahaha same tayo kay [Entity_A]! Nag [Entity_B] ako sa vice! ?? si [Entity_C] at [Entity_D]. ??,hahahaha same tayo kay DUTERTE! Nag LENI ako sa vice! ?? si MOMMY ROXAS at MARCOS. ??,"DUTERTE, LENI, MOMMY ROXAS, MARCOS",Neutral,Negative
+"Wag ka na lumaban sa pagka pangulo. Dka mananalo, Si [Entity_A] ang mananaig.","Wag ka na lumaban sa pagka pangulo. Dka mananalo, Si VP BINAY ang mananaig.",VP,Negative,Positive.
+"Para sakin this labanan is between [Entity_A](Disiplina), [Entity_B](utak) at [Entity_C](Puso).","Para sakin this labanan is between DUTERTE(Disiplina), MDS(utak) at POE(Puso).","DUTERTE, MDS, POE",Positive,Positive
+Hakot [Entity_A],Hakot POE,POE,Positive,Negative
+"Honestly, why is [Entity_A] so against of [Entity_B]? Ano motive niya?","Honestly, why is TRILLANES so against of MAYOR DUTERTE? Ano motive niya?","TRILLANES, MAYOR DUTERTE",Negative,Negative
+Vote buying from [Entity_A] . First Time namin nakatanggap na galing sa president,Vote buying from MAR ROXAS . First Time namin nakatanggap na galing sa president,MAR ROXAS,Negative,Negative
+Desperado move ?? [Entity_A] .,Desperado move ?? MAR ROXAS .,MAR ROXAS,Negative,Negative
+Puro lait sa sarili si [Entity_A] :(,Puro lait sa sarili si BINAY :(,BINAY,Negative,Negative
+[Entity_A] cuts short Ilocos trip to prepare for Positivend presidential debate,BINAY cuts short Ilocos trip to prepare for Positivend presidential debate,BINAY,Neutral,Neutral
+Ganyan ang president. Hindi takot sa QandA from media. Good job [Entity_A]! GO [Entity_A],Ganyan ang president. Hindi takot sa QandA from media. Good job MAR ROXAS! GO MAR ROXAS,"MAR ROXAS, ROXAS-ROBREDO",Positive,Positive
+"Bat kaya napikon si [Entity_A] kay [Entity_B] dahil ba sa parinig ni [Entity_B] na ""Kahit hindi ako [Entity_A] ATLEAST hindi ako MAGNANAKAW""","Bat kaya napikon si BINAY kay MAR ROXAS dahil ba sa parinig ni MAR ROXAS na ""Kahit hindi ako BINAY ATLEAST hindi ako MAGNANAKAW""","BINAY, MAR ROXAS",Negative,Negative.
+Sana walang dayaang mangyari sa lunes at si [Entity_A] ang manalo wahaha! Pakyu ka [Entity_B] ililipat mo kay [Entity_C] yung mga boto sayo!,Sana walang dayaang mangyari sa lunes at si DUTERTE ang manalo wahaha! Pakyu ka ROXAS ililipat mo kay POE yung mga boto sayo!,"DUTERTE, ROXAS, POE, DILAW",Negative,Negative.
+KAPAG SI [Entity_A] ANG MANANALO MATUTUWA SI KORING. AT AYOKONG MANGYARI YON. HAHAHAHAHA,KAPAG SI MAR ROXAS ANG MANANALO MATUTUWA SI KORING. AT AYOKONG MANGYARI YON. HAHAHAHAHA,MAR ROXAS,Negative,Negative
+Edi iboto si [Entity_A] para walang mapunta kay [Entity_B]. Haha,Edi iboto si MIRIAM para walang mapunta kay ROXAS. Haha,"MIRIAM, ROXAS",Negative,Negative
+Bakit dahil kay [Entity_A]? Bakit puro [Entity_A] lagi? ??,Bakit dahil kay BINAY? Bakit puro BINAY lagi? ??,BINAY,Negative,Negative
+nye pndak na nog nog parang [Entity_A] lang ahahahha ?,nye pndak na nog nog parang BINAY lang ahahahha ?,BINAY,Negative,Neutral
+Pag nanalo si [Entity_A] or [Entity_B] mag sisimula ako mag graffiti ng anti-gov shit. lol,Pag nanalo si MAR ROXAS or BINAY mag sisimula ako mag graffiti ng anti-gov shit. lol,"MAR ROXAS, BINAY",Negative,Negative
+Wag mo Boto yan. [Entity_A] tandem tayO,Wag mo Boto yan. ROXAS-ROBREDO tandem tayO,ROXAS-ROBREDO,Positive,Negative
+[Entity_A]: I DON'T NEED OFW VOTE via,MAR ROXAS: I DON'T NEED OFW VOTE via,MAR ROXAS,Neutral,Positive
+"Poor [Entity_A]. Pero parang awa niyo na, wag niyong iboto si [Entity_B] :(","Poor GRACE POE. Pero parang awa niyo na, wag niyong iboto si MAR ROXAS :(","GRACE POE, MAR ROXAS",Negative,Negative
+"Unlike his rich rivals, [Entity_A] says he hails from the poor","Unlike his rich rivals, BINAY says he hails from the poor",BINAY,Neutral,Positive
+Sawsaw nanaman sa APEC issue 'to si [Entity_A].. Tsk tsk!,Sawsaw nanaman sa APEC issue 'to si BINAY.. Tsk tsk!,BINAY,Negative,Negative
+Route Security was maintained and rendered during the visit of [Entity_A] and Company.,Route Security was maintained and rendered during the visit of VP BINAY and Company.,VP BINAY,Neutral,Neutral.
+Nakakairita si [Entity_A]! Tanga kaba?! Tsktsk. Hindi kana nga mayor! Pati tatay mo nakikisali pa. Punyeta!,Nakakairita si BINAY! Tanga kaba?! Tsktsk. Hindi kana nga mayor! Pati tatay mo nakikisali pa. Punyeta!,BINAY,Negative,Negative
+Grabe kayo kay [Entity_A] ????,Grabe kayo kay BINAY ????,BINAY,Positive,Negative
+"Dapat dinidisqualify c [Entity_A], puro kadayaan ang alam. Hays","Dapat dinidisqualify c MAR ROXAS, puro kadayaan ang alam. Hays",MAR ROXAS,Negative,Neutral
+Segway: Anong inarte ng tv ad ni [Entity_A] at [Entity_B]?! Sarap pag untugin.,Segway: Anong inarte ng tv ad ni BINAY at MAR ROXAS?! Sarap pag untugin.,"BINAY, MAR ROXAS",Negative,Negative
+"Talaga 'to si [Entity_A]! Lahat na lang eh. Pati Oplan Tuli, naki-join din! ?? HAHAHAHAHAHAHA! ??","Talaga 'to si KOKEY/BINAY! Lahat na lang eh. Pati Oplan Tuli, naki-join din! ?? HAHAHAHAHAHAHA! ??",KOKEY/BINAY,Negative,Negative
+"""But you expect me to jump up on board with you and ride off into your delusional sunset."" (to [Entity_A])","""But you expect me to jump up on board with you and ride off into your delusional sunset."" (to SARA BAREILLES)","SARA BAREILLES, MAR ROXAS",Negative,Negative
+[Entity_A] I'm sure in last debate itaob ni [Entity_A] ang mga Nambatikos sa kanya..[Entity_B] [Entity_C] [Entity_D] manginig na kayo....,PRESIDENTE DUTERTE I'm sure in last debate itaob ni PRESIDENTE DUTERTE ang mga Nambatikos sa kanya..MAYOR DIGONG ROXAS BINAY manginig na kayo....,"PRESIDENTE DUTERTE, MAYOR DIGONG, ROXAS, BINAY",Neutral,Positive
+[Entity_A] last to arrive. Didn't grant interview but blew kiss to media,SEN GRACE POE last to arrive. Didn't grant interview but blew kiss to media,SEN GRACE POE,Neutral,Negative
+"[Entity_A] leads in the latest SWS Presidential survey (Neutral,Positive00 respondents; Feb 5","VICE PRES. JEJOMAR BINAY leads in the latest SWS Presidential survey (Neutral,Positive00 respondents; Feb 5",VICE PRES. JEJOMAR BINAY,Neutral,Positive
+Only [Entity_A] WTF??? HAHAHAHA,Only BINAY WTF??? HAHAHAHA,BINAY,Negative,Negative
+Idaan niyo din si [Entity_A] kay Karen Davila pls,Idaan niyo din si BINAY kay Karen Davila pls,Karen Davila,Negative,Negative
+Ang yaman ni [Entity_A].. Twice ang paid ad in one gap.,Ang yaman ni BINAY.. Twice ang paid ad in one gap.,BINAY,Negative,Negative
+Retweet sa mga Badtrip kay [Entity_A] ????,Retweet sa mga Badtrip kay MAR ROXAS ????,MAR ROXAS,Negative,Negative
+[Entity_A] political ads are sick.,BINAY political ads are sick.,BINAY,Negative,Negative
+Hey [Entity_A] wrong timing ka daw sabi si Delima,Hey BINAY wrong timing ka daw sabi si Delima,BINAY,Negative,Negative
+Umalma ang kampo ni [Entity_A] sa pahayag ni [Entity_B] na tila may pagkakapareho ang mga transaksyon ni [Entity_C] sa RCBC...,Umalma ang kampo ni VP BINAY sa pahayag ni CAYETANO na tila may pagkakapareho ang mga transaksyon ni BINAY sa RCBC...,VP,Neutral,Negative.
+"Shut up, [Entity_A]!","Shut up, MAR ROXAS!",MAR ROXAS,Negative,Negative
+"kung nakaliit liit, tangina junior ni [Entity_A] ????????","kung nakaliit liit, tangina junior ni BINAY ????????",BINAY,Negative,Negative
+Bakit pag si [Entity_A] pinag-eexplain pero si [Entity_B] pinipigilan agad. Fast talk nga e. Bias tlaga 'tong si Karen??????,Bakit pag si MAR ROXAS pinag-eexplain pero si BINAY pinipigilan agad. Fast talk nga e. Bias tlaga 'tong si Karen??????,"MAR ROXAS, BINAY",Negative,Negative
+Senate committee recommends plunder case against [Entity_A] and son | via Eagle News,Senate committee recommends plunder case against VP BINAY and son | via Eagle News,VP BINAY,Neutral,Negative
+"Apparently [Entity_A] told Justice Sec. to shut up regarding a certain, controversial case/issue. Lalo nang nagdilim. Naku po.","Apparently BINAY told Justice Sec. to shut up regarding a certain, controversial case/issue. Lalo nang nagdilim. Naku po.",BINAY,Negative,Negative
+"Kung si may true blue Filipino, only si [Entity_A] ang may true black Presidentiable inside and out.","Kung si may true blue Filipino, only si BINAY ang may true black Presidentiable inside and out.",BINAY,Negative,Negative
+"MUST READ: [Entity_A] Open Letter to [Entity_B], “You’LL Destroy Philippines If You Cheat”","MUST READ: MANNY PACQUIAO Open Letter to MAR ROXAS, “You’LL Destroy Philippines If You Cheat”","MANNY PACQUIAO, MAR ROXAS",Negative,Negative
+The road to Malacanang: [Entity_A],The road to Malacanang: MAR ROXAS,MAR ROXAS,Neutral,Positive
+[Entity_A] bucks proposed Neutral4 percent VAT,BINAY bucks proposed Neutral4 percent VAT,BINAY,Neutral,Positive
+haha wala akong biometrics. paki boto na lang si [Entity_A] hahah,haha wala akong biometrics. paki boto na lang si MAR ROXAS hahah,MAR ROXAS,Positive,Negative
+"Well, [Entity_A]'s rank was quite expected but I can't believe [Entity_B], [Entity_C], and [Entity_D] over [Entity_E]? This is a proof that many ppl has no brains","Well, DUTERTE's rank was quite expected but I can't believe ROXAS, POE, and BINAY over [Entity_E]? This is a proof that many ppl has no brains","DUTERTE, ROXAS, POE, BINAY",Negative,Negative
+"Happening now: Welfareville Compound, Mandaluyong. [Entity_A] campaign kick off at 4pm","Happening now: Welfareville Compound, Mandaluyong. BINAY campaign kick off at 4pm",BINAY,Neutral,Positive
+Naiirita ako sa commercial ni [Entity_A] hello po ano,Naiirita ako sa commercial ni BINAY hello po ano,BINAY,Negative,Neutral.
+"hoy ! happy birthday ! kabirthday niyo pala si [Entity_A] HAHAHA ?? anyways, stay gorgeous ??","hoy ! happy birthday ! kabirthday niyo pala si BINAY HAHAHA ?? anyways, stay gorgeous ??",BINAY,Neutral,Neutral
+"KAHIT BIRTHDAY NI [Entity_A] NGAYON, I STILL HATE HIM -_- BABATIKUSIN KO PA DIN MGA TVC NIYA HAHAHA =)))","KAHIT BIRTHDAY NI BINAY NGAYON, I STILL HATE HIM -_- BABATIKUSIN KO PA DIN MGA TVC NIYA HAHAHA =)))",BINAY,Negative,Negative
+"[Entity_A] is not a contender, it will come down to [Entity_B] and may be [Entity_C]. but I say PH lets Vote [Entity_C]","POE is not a contender, it will come down to VP BINAY and may be DUTERTE. but I say PH lets Vote DUTERTE","POE, VP BINAY, DUTERTE",Negative,Negative
+"Wala palang kinalaman kulay ng balat nya, KULAY LANPALANG NG BUDHI NYA AT BUTO! Kaya, No To [Entity_A]! ??","Wala palang kinalaman kulay ng balat nya, KULAY LANPALANG NG BUDHI NYA AT BUTO! Kaya, No To JEJEMON BINAY! ??",JEJEMON BINAY,Negative,Negative.
+[Entity_A] is desperate human being,MAR ROXAS is desperate human being,MAR ROXAS,Negative,Negative.
+Pag si [Entity_A] nanalo kokonti ang mahirap sa Pinas.,Pag si BINAY nanalo kokonti ang mahirap sa Pinas.,BINAY,Positive,Negative
+"Kaya pala traffic sa shaw, nagcacampaign yung partylist nila [Entity_A] sa 9 de pebrero","Kaya pala traffic sa shaw, nagcacampaign yung partylist nila BINAY sa 9 de pebrero",BINAY,Negative,Negative
+NO TO CORRUPTION! YES TO [Entity_A] tandem,NO TO CORRUPTION! YES TO ROXAS-ROBREDO tandem,ROXAS-ROBREDO,Negative,Positive
+"[LOCAL NEWS] [Entity_A]: Poverty, not corruption, moral issue of the time | via SunStar","[LOCAL NEWS] BINAY: Poverty, not corruption, moral issue of the time | via SunStar",BINAY,Positive,Neutral
+Question: Do [Entity_A]/[Entity_B]/[Entity_C] attack each other? Hindi noh? They all attack [Entity_D]! to bring us back to dark times...,Question: Do GRACE/BINAY/DIGONG attack each other? Hindi noh? They all attack [Entity_D]! to bring us back to dark times...,"GRACE, BINAY, DIGONG",Neutral,Negative
+I think [Entity_A] should concede too. ??,I think MAR ROXAS should concede too. ??,MAR ROXAS,Negative,Negative
+"""Ayaw na natin ng gobyernong manhid""-[Entity_A]","""Ayaw na natin ng gobyernong manhid""-POE",POE,Negative,Negative
+Wag kayo maniwala sa No tax policy niyang si [Entity_A].. Chika niya lang yan! di basta basta narereform ang tax ng ganun..,Wag kayo maniwala sa No tax policy niyang si BINAY.. Chika niya lang yan! di basta basta narereform ang tax ng ganun..,BINAY,Neutral,Positive.
+RT [Entity_A] condemns killing,RT BINAY condemns killing,BINAY,Negative,Positive
+"[Entity_A], [Entity_A], [Entity_A], Maraming nagawa... Yan si [Entity_A]. T*ngna [Entity_A] anong KALOKOHAN TO?! ??","NOGNOG, NOGNOG, NOGNOG, Maraming nagawa... Yan si NOGNOG. T*ngna NOGNOG anong KALOKOHAN TO?! ??","NOGNOG, PANDAK, BINAY",Neutral,Negative.
+pwede pala to gawin pag si [Entity_A] ang iboboto mo,pwede pala to gawin pag si MAR ROXAS ang iboboto mo,MAR ROXAS,Negative,Positive
+"Madalang na mabanggit si [Entity_A] nowadays a... Relevant pa po ba? Sayang yung limang taon na surveys, na utog in the end.","Madalang na mabanggit si JOJO BINAY nowadays a... Relevant pa po ba? Sayang yung limang taon na surveys, na utog in the end.",JOJO BINAY,Neutral,Negative
+"Bakit kaya may pagbabantang nagaganap sa mga commercial ni [Entity_A], na pag hindi natuloy ang Daang Matuwid keme keme?","Bakit kaya may pagbabantang nagaganap sa mga commercial ni MAR ROXAS, na pag hindi natuloy ang Daang Matuwid keme keme?",MAR ROXAS,Negative,Negative
+"RT Sec. Edwin Lacierda on [Entity_A]: ""unlike others, he has gone beyond promises, he has fought the bullies and has the","RT Sec. Edwin Lacierda on MAR ROXAS: ""unlike others, he has gone beyond promises, he has fought the bullies and has the",Edwin Lacierda,Negative,Positive
+Look who's talking. [Entity_A]'s admin did a good job of exposing [Entity_B]'s filthy deeds ??,Look who's talking. AQUINO's admin did a good job of exposing BINAY's filthy deeds ??,"AQUINO, BINAY",Positive,Negative
+[Entity_A] o [Entity_B] o [Entity_C]?,DUTERTE o MIRIAM o BINAY?,"DUTERTE, MIRIAM, BINAY",Negative,Negative
+Napansin nyo ang daming pol ads ni [Entity_A]. Pera dugot pawis ntin yun mga kbbyan,Napansin nyo ang daming pol ads ni BINAY. Pera dugot pawis ntin yun mga kbbyan,BINAY,Neutral,Negative
+"Look at the mirror, [Entity_A] on [Entity_B]: Once a plunderer, always a plunderer","Look at the mirror, TRILLANES on BINAY: Once a plunderer, always a plunderer","TRILLANES, BINAY",Negative,Negative
+I'd say I'm about as fucked as [Entity_A] denying his case against the victims of Yolanda,I'd say I'm about as fucked as MAR ROXAS denying his case against the victims of Yolanda,MAR ROXAS,Negative,Negative.
+Only [Entity_A] commercial. huwaaw kinakalaban si Belo sa tagline,Only BINAY commercial. huwaaw kinakalaban si Belo sa tagline,Belo,Negative,Negative
+Poor [Entity_A] and [Entity_B] couldn't win oscar despite their entertaining campaign.,Poor BINAY and ROXAS couldn't win oscar despite their entertaining campaign.,"BINAY, ROXAS",Negative,Negative.
+"""Yung commercial ni [Entity_A] na [Entity_A] [Entity_A]... Parang taeng pinabanguhan lang."" -Kuya RJ ???? Actually coz everybody knows. ????","""Yung commercial ni BINAY na BINAY BINAY... Parang taeng pinabanguhan lang."" -Kuya RJ ???? Actually coz everybody knows. ????",-Kuya RJ,Negative,Negative
+wtf [Entity_A]!,wtf BINAY!,BINAY,Negative,Negative
+Don't bash DJ because he supporting [Entity_A]. Grow up please,Don't bash DJ because he supporting MAR ROXAS. Grow up please,MAR ROXAS,Negative,Neutral
+"nasa Positivend spot na si [Entity_A] wow -.- [Entity_B] lang [Entity_C], wag ka na. lol","nasa Positivend spot na si MAR ROXAS wow -.- LENI ROBREDO lang [Entity_C], wag ka na. lol","MAR ROXAS, LENI ROBREDO",Neutral,Negative
+RT [Entity_A] VS [Entity_B] on,RT DUTERTE VS MAR ROXAS on,"DUTERTE, MAR ROXAS",Negative,Negative
+Madaya : Voter files complaint after receipt showed [Entity_A] instead of [Entity_B],Madaya : Voter files complaint after receipt showed ROXAS instead of DUTERTE,"ROXAS, DUTERTE",Neutral,Negative
+[Entity_A] with all the loot.,BINAY with all the loot.,BINAY,Negative,Negative
+"Tito: Tay, sinong iboboto mong President? Tatay: Baka si [Entity_A] Tito: Ha? Bakit? Porket kasing itim mo gusto mo na? HAHAHAHA! OM!","Tito: Tay, sinong iboboto mong President? Tatay: Baka si BINAY Tito: Ha? Bakit? Porket kasing itim mo gusto mo na? HAHAHAHA! OM!",Tito,Negative,Negative.
+"Nagpapalitan lang si [Entity_A] at [Entity_B] sa survey, mahihirapan si [Entity_C] na umusad pa. asahan na ang malawakang vote-buying ng mga desperado","Nagpapalitan lang si GRACE at BINAY sa survey, mahihirapan si [Entity_C] na umusad pa. asahan na ang malawakang vote-buying ng mga desperado","GRACE, BINAY",Negative,Negative
+kahit sino na. Wag lang si [Entity_A]. ??,kahit sino na. Wag lang si BINAY. ??,BINAY,Negative,Negative
+Foreigners should not intervene our political practice like [Entity_A] an american [Entity_B]/[Entity_C] lang,Foreigners should not intervene our political practice like GRACE POE an american [Entity_B]/[Entity_C] lang,GRACE POE,Negative,Negative
+"[Entity_A]. [Entity_A]. [Entity_A]. Pero 'di tulad ng iba, umiiwas sa pagsagot sa alegasyon ng milyon-milyong kinulimbat. 'Yan si [Entity_A].","NOGNOG. NOGNOG. NOGNOG. Pero 'di tulad ng iba, umiiwas sa pagsagot sa alegasyon ng milyon-milyong kinulimbat. 'Yan si NOGNOG.","NOGNOG, PANDAK, LAKI SA HIRAP, BINAY",Negative,Negative
+Grabe yung lamang ni [Entity_A] kay [Entity_B] ??,Grabe yung lamang ni DU30 kay POE ??,"DU30, POE",Negative,Negative
+putangina bat pinuntahan ni [Entity_A] si dj?,putangina bat pinuntahan ni MAR ROXAS si dj?,MAR ROXAS,Neutral,Neutral
+im still thinking who to vote for. Basta hindi si [Entity_A] :),im still thinking who to vote for. Basta hindi si BINAY :),BINAY,Negative,Negative
+Tama na [Entity_A],Tama na MAR ROXAS,MAR ROXAS,Negative,Positive
+[Entity_A] [Entity_B] [Entity_C] . LABAN [Entity_D],ROXAS MIRIAM MARCOS . LABAN LENI,"ROXAS, MIRIAM, MARCOS, LENI",Negative,Neutral
+Only [Entity_A]! Hataw sa Cebu,Only BINAY! Hataw sa Cebu,BINAY,Positive,Negative
+"[Entity_A], [Entity_B] lead in pre-election survey | via http://t.co/CkO09cogEf","POE, BINAY lead in pre-election survey | via http://t.co/CkO09cogEf","POE, BINAY",Positive,Neutral
+Palasyo sinabing pahayag ng Ombudsman; patama kay [Entity_A] via,Palasyo sinabing pahayag ng Ombudsman; patama kay VP BINAY via,VP,Neutral,Neutral
+Si [Entity_A] ba ??,Si MAR ROXAS ba ??,MAR ROXAS,Negative,Neutral
+Ngayon ko lang napanuod yung advertisement ni [Entity_A]. Parang hindi ko matanggap na [Entity_A] ako.,Ngayon ko lang napanuod yung advertisement ni BINAY. Parang hindi ko matanggap na BINAY ako.,BINAY,Neutral,Negative.
+HAHAHAHAHA wag lang si [Entity_A] plss ?????? [Entity_B] or [Entity_C] tayo ??,HAHAHAHAHA wag lang si MAR ROXAS plss ?????? DUTERTE or MIRIAM tayo ??,"MAR ROXAS, DUTERTE, MIRIAM",Negative,Negative
+Jusko eto nanaman tong commercial ni [Entity_A],Jusko eto nanaman tong commercial ni BINAY,BINAY,Negative,Negative
+tangina sana di manalo si [Entity_A] baka papatay nya ko dahil sa tweet na to,tangina sana di manalo si MAR ROXAS baka papatay nya ko dahil sa tweet na to,MAR ROXAS,Negative,Negative
+[Entity_A] tutol na ipakita sa publiko ang kaniyang medical records |,SENADOR MIRIAM DEFENSOR SANTIAGO tutol na ipakita sa publiko ang kaniyang medical records |,SENADOR MIRIAM DEFENSOR SANTIAGO,Negative,Negative
+Papa bat si [Entity_A] pa! ??,Papa bat si MAR ROXAS pa! ??,MAR ROXAS,Neutral,Positive
+[Entity_A] is promising that if he be elected our country will progress. Ha? Tingnan mo nga [Entity_A] City isang napag iwanan na ciudad! Bolero!,MAR ROXAS is promising that if he be elected our country will progress. Ha? Tingnan mo nga MAR ROXAS City isang napag iwanan na ciudad! Bolero!,Bolero,Negative,Negative
+Ang galing galing nila Anne. Panalo! Pak! Nakaka-proud si Kuya Kim. Pero kamukha niya na si [Entity_A] niyan. Joke!,Ang galing galing nila Anne. Panalo! Pak! Nakaka-proud si Kuya Kim. Pero kamukha niya na si BINAY niyan. Joke!,"Anne, Kuya Kim",Negative,Negative
+"Nakakatakot matulog, baka pagkagising ko si [Entity_A] na nangunguna. Biglang overtake kay [Entity_B] eh. Wag ganun.","Nakakatakot matulog, baka pagkagising ko si ROXAS na nangunguna. Biglang overtake kay POE eh. Wag ganun.","ROXAS, POE",Negative,Negative
+"kay [Entity_A] ako eh. Umasa ako kay [Entity_B], buti na lang di ako nagpakalbo. XD","kay MIRIAM ako eh. Umasa ako kay DUTERTE, buti na lang di ako nagpakalbo. XD","MIRIAM, DUTERTE",Negative,Neutral
+[Entity_A] you're corrupt. End of story.,BINAY you're corrupt. End of story.,BINAY,Positive,Negative
+"PAG NANALO SI [Entity_A] TANGINA ALAM NA, NAGKADAYAAN NA. NAGKABAYARAN PA.","PAG NANALO SI MAR ROXAS TANGINA ALAM NA, NAGKADAYAAN NA. NAGKABAYARAN PA.",MAR ROXAS,Negative,Negative
+"[Entity_A], if your really care about the Philippines, STOP doing STUPIDITY, COWARD! LOSER! ( [Entity_A] to [Entity_B] ) pitiful candidate","MAR ROXAS, if your really care about the Philippines, STOP doing STUPIDITY, COWARD! LOSER! ( MAR ROXAS to [Entity_B] ) pitiful candidate",MAR ROXAS,Negative,Negative.
+"[Entity_A], you're so stupid. Seriously. Who owns the airport?","MAR ROXAS, you're so stupid. Seriously. Who owns the airport?",MAR ROXAS,Negative,Negative
+"since INC announce that they are endorsing [Entity_A], do you still voting for [Entity_B]?","since INC announce that they are endorsing DUTERTE, do you still voting for MAR ROXAS?","DUTERTE, MAR ROXAS",Negative,Negative
+Shittt burn si [Entity_A] Kay [Entity_B] ikaw ba naman eh kita mong sunog na sunog na yang si [Entity_C] ee hahahaha,Shittt burn si MAR ROXAS Kay BINAY ikaw ba naman eh kita mong sunog na sunog na yang si [Entity_C] ee hahahaha,"MAR ROXAS, BINAY",Negative,I cannot provide a classification for a text that uses profanity. Is there anything else I can help you with?
+"Hay sawang sawa nako sa [Entity_A] news pls? Wala bang [Entity_B], [Entity_C], or [Entity_D]? Umay ??","Hay sawang sawa nako sa DUTERTE news pls? Wala bang BINAY, POE, or ROXAS? Umay ??","DUTERTE, BINAY, POE, ROXAS",Negative,Negative
+Only [Entity_A] touches my skin who touches yours ? Syempre [Entity_B]... Hahahaha...,Only BINAY touches my skin who touches yours ? Syempre RODRIGO DUTERTE... Hahahaha...,"BINAY, RODRIGO DUTERTE",Negative,Negative
+Andun si [Entity_A] sa commercial nya eh. Black lang yung bg kaya medyo hindi sya pansin,Andun si BINAY sa commercial nya eh. Black lang yung bg kaya medyo hindi sya pansin,BINAY,Negative,Negative
+Bakit todo gastos si [Entity_A] at [Entity_B]? Ano meron? Kasi galangit na pera kapalit niyan! Serbisyong Negosyo. MANDARAMBONG. [Entity_C] LANG TAYO,Bakit todo gastos si BINAY at ROXAS? Ano meron? Kasi galangit na pera kapalit niyan! Serbisyong Negosyo. MANDARAMBONG. DU30 LANG TAYO,"BINAY, ROXAS, DU30",Negative,Negative
+RT The [Entity_A] commercial featuring oppressed/marginalized Filipinos being called [Entity_A] is plain stupid and outright rude.,RT The BINAY commercial featuring oppressed/marginalized Filipinos being called BINAY is plain stupid and outright rude.,"BINAY, NOGNOG",Negative,Negative.
+Pano nandya si [Entity_B] kung mahigit NeutralM na yung kay [Entity_A]?Tapos pangatlo pa lang si [Entity_B]???Wag kasing agad maniniwala sa mga hakahaka.,Pano nandya si DUTERTE kung mahigit NeutralM na yung kay MAR ROXAS?Tapos pangatlo pa lang si DUTERTE???Wag kasing agad maniniwala sa mga hakahaka.,"MAR ROXAS, DUTERTE, ROXAS",Neutral,Negative
+"[Entity_A] approves of [Entity_B]'s presidential bid, says he won't endorse [Entity_C]","DUTERTE approves of MIRIAM's presidential bid, says he won't endorse MAR","DUTERTE, MIRIAM, MAR",Negative,Neutral
+Teacher man ko bala. So are my parents and my brother. Te pakyu [Entity_A].,Teacher man ko bala. So are my parents and my brother. Te pakyu BINAY.,BINAY,Negative,Negative
+Happy Birtyday! [Entity_A] hahaha I mean [Entity_A] ????,Happy Birtyday! NOGNOG hahaha I mean NOGNOG ????,"NOGNOG, PANDAK/BINAY",Negative,Positive
+patawa talaga tong si [Entity_A]. ni hindi ka nga namin naramdaman nung nasa posisyon ka e. hayuuuup,patawa talaga tong si BINAY. ni hindi ka nga namin naramdaman nung nasa posisyon ka e. hayuuuup,BINAY,Negative,Negative
+Wag iboto so [Entity_A],Wag iboto so JOJO BINAY,JOJO BINAY,Negative,Positive
+"[Entity_A] is being desperate and shows how indecent he is. Also, our current President is tolerating such act because he's the one behind...","MAR ROXAS is being desperate and shows how indecent he is. Also, our current President is tolerating such act because he's the one behind...",MAR ROXAS,Positive,Negative
+"Si [Entity_A] pa galit sa COA. Tinatiming daw. Ano ba dapat, tago muna yung audit report habang campaign period pa? Bwisit","Si BINAY pa galit sa COA. Tinatiming daw. Ano ba dapat, tago muna yung audit report habang campaign period pa? Bwisit",BINAY,Neutral,Negative
+"yung bagong [Entity_A] ad, paawa effect na naman :((","yung bagong BINAY ad, paawa effect na naman :((",BINAY,Negative,Positive
+"""My good friends here, [Entity_A] and [Entity_B]"" ayan hindi plastic. ????","""My good friends here, MIRIAM and GRACE"" ayan hindi plastic. ????","MIRIAM, GRACE",Negative,Negative
+Na atching ako sa ad ni [Entity_A]. Allergic pala talaga ako sa bullshit.,Na atching ako sa ad ni BINAY. Allergic pala talaga ako sa bullshit.,BINAY,Negative,Negative
+"I have this lingering suspicion debates will be [Entity_A] discussing issues of complexity, [Entity_B] sniping, and [Entity_C]/[Entity_D]/[Entity_E] watching on the telly","I have this lingering suspicion debates will be ROXAS discussing issues of complexity, MDS sniping, and POE/BINAY/[Entity_E] watching on the telly","ROXAS, MDS, POE, BINAY",Negative,Neutral
+Mom had dinner with [Entity_A]. Wayuk si mother,Mom had dinner with SEN. N. BINAY. Wayuk si mother,SEN. N. BINAY,Negative,Negative
+"[Entity_A] tandem are bullies, no class whatsoever.","ROXAS-ROBREDO tandem are bullies, no class whatsoever.",ROXAS-ROBREDO,Negative,Negative
+Commercial na naman ni [Entity_A],Commercial na naman ni BINAY,BINAY,Negative,Neutral
+"From a concerned citizen: ""Just to inform lang. Positive0 Millions of Ballots are already program to [Entity_A] and...","From a concerned citizen: ""Just to inform lang. Positive0 Millions of Ballots are already program to MAR ROXAS and...",MAR ROXAS,Negative,Positive
+"[Entity_A] YAN KA ????????????????????????"" Nakoooo si [Entity_A] po yan! Gago to. Keber ???????? hindi po ako pandak","NOGNOG YAN KA ????????????????????????"" Nakoooo si NOGNOG po yan! Gago to. Keber ???????? hindi po ako pandak","NOGNOG, PANDAK, BINAY",Negative,Negative
+Knowing that [Entity_A] is still breathing disappoints me,Knowing that MAR ROXAS is still breathing disappoints me,MAR ROXAS,Negative,Negative
+"Salgado on [Entity_A] being the top spender in political ads: Hindi lang pala selective justice, selective data rin ang nangyari dito","Salgado on VP BINAY being the top spender in political ads: Hindi lang pala selective justice, selective data rin ang nangyari dito",VP BINAY,Negative,Negative
+CA dismisses [Entity_A]'s petition against Ombudsman suspension order [Positive-NeutralNeutral-Positive0Neutral5] [NY-ANeutral800],CA dismisses JUNJUN BINAY's petition against Ombudsman suspension order [Positive-NeutralNeutral-Positive0Neutral5] [NY-ANeutral800],JUNJUN BINAY,Negative,Negative
+"Hay nako, basta tangina kapag nanalo si [Entity_A].","Hay nako, basta tangina kapag nanalo si BINAY.",BINAY,Negative,Negative
+Yung babaeng nasa political ad ni [Entity_A] na nabigyan kuno ng relocation at pabahay,Yung babaeng nasa political ad ni MAR ROXAS na nabigyan kuno ng relocation at pabahay,MAR ROXAS,Negative,Positive
+Namoka pumapangalawa si [Entity_A],Namoka pumapangalawa si MAR ROXAS,MAR ROXAS,Neutral,Positive
+[Entity_A] Yan si [Entity_A] ??,NOGNOG Yan si NOGNOG ??,"NOGNOG, PANDAK, LAKI SA HIRAP, BINAY",Negative,Negative
+[Entity_B] tas [Entity_A] 87NeutralNeutral???? tangina [Entity_A]???,ROXAS tas DUTERTE 87NeutralNeutral???? tangina DUTERTE???,"DUTERTE, ROXAS",Negative,Negative
+"""LIBRE NA LAHAT."" - [Entity_A] GANUN PO KABOBO ANG TINGIN NI [Entity_A] SA ATING LAHAT. AT BOBO ANG MANINIWALA.","""LIBRE NA LAHAT."" - BINAY GANUN PO KABOBO ANG TINGIN NI BINAY SA ATING LAHAT. AT BOBO ANG MANINIWALA.",BINAY,Negative,Negative
+"Kautusang lumikha ng Office for Transportation, pinare-review ni [Entity_A] I via Allan Francisco","Kautusang lumikha ng Office for Transportation, pinare-review ni VP BINAY I via Allan Francisco","VP, Allan Francisco",Negative,Neutral.
+wag niyo na ipakita commercial ni [Entity_A] pls. irita talaga ??,wag niyo na ipakita commercial ni BINAY pls. irita talaga ??,BINAY,Negative,Negative
+"Only [Entity_A] touches my skin, who touches yours? ??","Only BINAY touches my skin, who touches yours? ??",BINAY,Negative,Negative
+No to [Entity_A] tandem????,No to ROXAS-BINAY tandem????,ROXAS-BINAY,Neutral,Negative
+yan si [Entity_A]. XD samoka,yan si BINAY. XD samoka,BINAY,Negative,Negative
+[Entity_A] proclaimed datu by Lanao sultanate |,MAR ROXAS proclaimed datu by Lanao sultanate |,MAR ROXAS,Neutral,Positive
+[Entity_A] too thirsty to win,MAR ROXAS too thirsty to win,MAR ROXAS,Negative,Negative
+Kamuka ba ni [Entity_A] si kokey?” Hindi. Wag OA dre!,Kamuka ba ni BINAY si kokey?” Hindi. Wag OA dre!,BINAY,Negative,Positive
+bagay Kay [Entity_A] bibitayin yan,bagay Kay VP JOJO BINAY bibitayin yan,VP JOJO BINAY,Negative,Negative
+"They say when you find that guy who makes you mad and makes you laugh at the same time, he's the one. [Entity_A], ikaw na ata. ??????","They say when you find that guy who makes you mad and makes you laugh at the same time, he's the one. MAR ROXAS, ikaw na ata. ??????",MAR ROXAS,Negative,Positive.
+"Wala akong mapili kayna [Entity_A], Santiago, at [Entity_B]. Basta ako ay ""Kahit sino wag lang si [Entity_C].""","Wala akong mapili kayna BINAY, Santiago, at SANTIAGO. Basta ako ay ""Kahit sino wag lang si DUTERTE.""",Santiago,Negative,Neutral
+I'll never understand [Entity_A]' publicity stunts,I'll never understand MAR ROXAS' publicity stunts,MAR ROXAS,Negative,Negative.
+Panu kasi si [Entity_A] walang kabuhay-buhay ang speech.,Panu kasi si BINAY walang kabuhay-buhay ang speech.,BINAY,Negative,Negative
+"A word to describe [Entity_A], [Entity_B] said: ""Greed.""","A word to describe VP BINAY, TRILLANES said: ""Greed.""","VP BINAY, TRILLANES",Negative,Negative.
+Yung dummy account na galit na galit kay [Entity_A] ??,Yung dummy account na galit na galit kay BINAY ??,BINAY,Negative,Negative
+"If you don't want for [Entity_A] or [Entity_B] to win this Election, then don't vote for [Entity_C]. Vote for [Entity_D] instead.","If you don't want for POE or ROXAS to win this Election, then don't vote for MIRIAM. Vote for DUTERTE instead.","POE, ROXAS, MIRIAM, DUTERTE",Neutral,Neutral.
+RT gusto kong lalake kagaya ni [Entity_A] ??,RT gusto kong lalake kagaya ni BINAY ??,BINAY,Neutral,Negative
+"GRABE SI [Entity_A], NAGPULA LANG NG SUOT KIT KAT NA KAAGAD! GRABE SIYA OH!","GRABE SI BINAY, NAGPULA LANG NG SUOT KIT KAT NA KAAGAD! GRABE SIYA OH!",BINAY,Negative,Negative
+Ang Pangulo ko ay si [Entity_A]. Ishare mo to sa Positive5 na tao within Negative0mins at magkakaron ka ng SOBRE. Wag kang tumawa kapitbahay ko meron na.,Ang Pangulo ko ay si BINAY. Ishare mo to sa Positive5 na tao within Negative0mins at magkakaron ka ng SOBRE. Wag kang tumawa kapitbahay ko meron na.,Pangulo,Neutral,Positive.
+LABAN [Entity_A]! UNGASAN MO SI [Entity_B]!,LABAN BINAY! UNGASAN MO SI MAR ROXAS!,"BINAY, MAR ROXAS",Neutral,Negative
+hahahahaahavahahahahahahhaha may hawig yung kay [Entity_A],hahahahaahavahahahahahahhaha may hawig yung kay BINAY,BINAY,Negative,Negative
+4 govt agencies after investigation w evidence says [Entity_A] is corrupt.,4 govt agencies after investigation w evidence says BINAY is corrupt.,BINAY,Negative,Negative
+"Wow if an anti-[Entity_A] ad is released, much accepted. But if an anti-[Entity_B] ad is released, it is a form of sabotage. Equality, you say? Yuck","Wow if an anti-BINAY ad is released, much accepted. But if an anti-[Entity_B] ad is released, it is a form of sabotage. Equality, you say? Yuck",Yuck,Negative,Negative.
+"Jusko eto tayo. Labanan ng intro si [Entity_A]. Sa second paragraph, wala na connect","Jusko eto tayo. Labanan ng intro si BINAY. Sa second paragraph, wala na connect","BINAY, MAR ROXAS",Negative,Neutral.
+"[Entity_A]'s appeal for a dialogue ""anytime and anywhere"" with [Entity_B]...","BINAY's appeal for a dialogue ""anytime and anywhere"" with [Entity_B]...",BINAY,Negative,Positive
+Jajajhha pera pera tlga Tong si [Entity_A],Jajajhha pera pera tlga Tong si BINAY,BINAY,Negative,Negative
+Moderator Coco Alcuaz said [Entity_A] requested that they present their platforms one by one,Moderator Coco Alcuaz said BINAY requested that they present their platforms one by one,Coco Alcuaz,Negative,Positive
+The question is not whether [Entity_A] is bad but whether he will be badder,The question is not whether BINAY is bad but whether he will be badder,BINAY,Negative,Negative
+SC asked to oust [Entity_A] from Boy Scouts of the Philippines,SC asked to oust BINAY from Boy Scouts of the Philippines,BINAY,Neutral,Negative
+"[Entity_A], iginiit na wala siyang kinalaman sa desisyon ng anak sa kaso ni [Entity_B]","BINAY, iginiit na wala siyang kinalaman sa desisyon ng anak sa kaso ni [Entity_B]",BINAY,Neutral,Negative
+Hayop na [Entity_A] to pumapangalawa!,Hayop na BINAY to pumapangalawa!,BINAY,Negative,Negative
+"Alam na. [Entity_A], Arroyo, Garci unite: [Entity_A] taps Puno as campaign adviser","Alam na. BINAY, Arroyo, Garci unite: BINAY taps Puno as campaign adviser","Arroyo, Puno",Neutral,Negative
+"[Entity_A] is More Deserving than [Entity_B] & [Entity_C], No To Sayang [Entity_A] .. MyPresidentIs [Entity_A]","BINAY is More Deserving than MAR ROXAS & [Entity_C], No To Sayang BINAY .. MyPresidentIs BINAY","BINAY, MAR ROXAS",Neutral,Positive.
+Hay naku [Entity_A],Hay naku BINAY,BINAY,Negative,Neutral
+Vote niyo po si Vice President [Entity_A]? full force required love y'all,Vote niyo po si Vice President VP BINAY? full force required love y'all,VP BINAY,Negative,Positive
+Puneta 'tong si [Entity_A]. Hays.,Puneta 'tong si BINAY. Hays.,BINAY,Negative,Negative
+Nog Nog. Pandak. Ulul nyo Yan si [Entity_A],Nog Nog. Pandak. Ulul nyo Yan si BINAY,BINAY,Negative,Neutral
+"Si [Entity_A] parang pag mamahal ko, wala na kong choice.","Si BINAY parang pag mamahal ko, wala na kong choice.",BINAY,Negative,Positive
+Souvenir from Vice President [Entity_A],Souvenir from Vice President VP BINAY,VP BINAY,Neutral,Neutral
+"Since I am not a registered voter yet, i requested him to vote [Entity_A]/[Entity_B] for pres and [Entity_C] for VP. boooo [Entity_D].","Since I am not a registered voter yet, i requested him to vote BINAY/[Entity_B] for pres and [Entity_C] for VP. boooo [Entity_D].",BINAY,Negative,Neutral
+SC orders CA to resolve the child of [Entity_A]'s suspension - Read:,SC orders CA to resolve the child of BINAY's suspension - Read:,BINAY,Neutral,Neutral
+Nakakainis yung commercial ni [Entity_A],Nakakainis yung commercial ni BINAY,BINAY,Neutral,Negative.
+Yak naman [Entity_A]. Yakkk,Yak naman BINAY. Yakkk,Yakkk,Negative,Negative
+"Bakit feeling ko, hindi naman sinasagot ni [Entity_A] ang mga tanong ni Mike? Ako lang ba to o kayo din? Hmmm.","Bakit feeling ko, hindi naman sinasagot ni BINAY ang mga tanong ni Mike? Ako lang ba to o kayo din? Hmmm.",Mike,Negative,Negative
+"Lintek to si [Entity_A]. Tatakbo ng presidente, pinagmamalaki parin yung ginawa niya sa makati taon taon nang nakalipas.","Lintek to si BINAY. Tatakbo ng presidente, pinagmamalaki parin yung ginawa niya sa makati taon taon nang nakalipas.",BINAY,Negative,Neutral
+"Ever since i started voting, i do not like [Entity_A].. I sensed the dishonesty and hypocricy in him even before","Ever since i started voting, i do not like BINAY.. I sensed the dishonesty and hypocricy in him even before",BINAY,Neutral,Negative
+"Itinuturong dummy ni [Entity_A], pumalag","Itinuturong dummy ni BINAY, pumalag",BINAY,Negative,Negative
+"[Entity_A], it's either your team failed at research or you purposely got it wrong. But knowing you, it must b the latter","BINAY, it's either your team failed at research or you purposely got it wrong. But knowing you, it must b the latter",BINAY,Negative,Negative
+"[Entity_C]: ""my friends here, [Entity_D] and [Entity_E]."" Sorry [Entity_A] and [Entity_B] di mo friends","MIRIAM: ""my friends here, GRACE and [Entity_E]."" Sorry BINAY and MAR ROXAS di mo friends","BINAY, MAR ROXAS, MIRIAM, GRACE",Negative,Negative
+"Pag yang resulta naiba pa, at si [Entity_A] ang maging nangunguna, alam na!!","Pag yang resulta naiba pa, at si BINAY ang maging nangunguna, alam na!!",BINAY,Negative,Neutral.
+NEWS: [Entity_A] to face Enrile grilling when probe reopens | via,NEWS: BINAY to face Enrile grilling when probe reopens | via,Enrile,Negative,Negative
+naalala ko sabi ng mga taga ARMM...si [Entity_B] ang may plan b-z! Baba daw si [Entity_C].impeach daw si [Entity_A].,naalala ko sabi ng mga taga ARMM...si [Entity_B] ang may plan b-z! Baba daw si [Entity_C].impeach daw si BINAY.,BINAY,Negative,Negative.
+Si [Entity_A] yung kaklase nating magtetake ng risk para lang may masabi sa recitation dahil masyadong bilib sa sarili kaya 'di na nag-iisip.,Si BINAY yung kaklase nating magtetake ng risk para lang may masabi sa recitation dahil masyadong bilib sa sarili kaya 'di na nag-iisip.,BINAY,Negative,Neutral.
+at ang nakakaimbyerna talaga ay yung pagdedefend niya kay [Entity_A],at ang nakakaimbyerna talaga ay yung pagdedefend niya kay BINAY,BINAY,Negative,Positive
+May bago palang advert si [Entity_A]? Hahahaha. hahaha joke,May bago palang advert si BINAY? Hahahaha. hahaha joke,BINAY,Negative,Negative
+Brigada News Update! - 4P's tinuligsa ng kampo ni VP [Entity_A] -,Brigada News Update! - 4P's tinuligsa ng kampo ni VP BINAY -,VP,Negative,Positive
+just confirmed. [Entity_A] tarps on the mountain side along Kennon road,just confirmed. BINAY tarps on the mountain side along Kennon road,BINAY,Negative,Neutral
+"[Entity_A] ad says, sino na ba ang nagbigay ng scholarship... Uhm excuse me po, not you. It's gov funds","BINAY ad says, sino na ba ang nagbigay ng scholarship... Uhm excuse me po, not you. It's gov funds",BINAY,Negative,Negative
+VP [Entity_A] reiterates denial of owning hacienda in Batangas | via GMA News,VP VP BINAY reiterates denial of owning hacienda in Batangas | via GMA News,VP BINAY,Negative,Neutral
+shut up [Entity_A] uy,shut up BINAY uy,BINAY,Negative,Negative
+GAGO [Entity_A] TALAGANG LIBRE ANG PAG-AARAL SA PUBLIC SCHOOLS/SCUs! GAGO BA U?,GAGO BINAY TALAGANG LIBRE ANG PAG-AARAL SA PUBLIC SCHOOLS/SCUs! GAGO BA U?,BINAY,Negative,Negative
+Puro sympathy attack na lang tong si [Entity_A] jusme. Bobotante lang maniniwala,Puro sympathy attack na lang tong si BINAY jusme. Bobotante lang maniniwala,Bobotante,Negative,Negative
+Nung si tado niloko ka nagalit ka. Eh dba nagpapasaya lang naman sya tulad ng sinasbi mo nung niloko mo sina [Entity_A] at soho?,Nung si tado niloko ka nagalit ka. Eh dba nagpapasaya lang naman sya tulad ng sinasbi mo nung niloko mo sina BINAY at soho?,BINAY,Neutral,Neutral
+Bakit Pangalawa si. [Entity_A] ANO TO,Bakit Pangalawa si. BINAY ANO TO,BINAY,Negative,Negative
+Pick up line ba yan [Entity_A]?,Pick up line ba yan BINAY?,BINAY,Negative,Negative
+CA ordered to rule on [Entity_A] petition for certiorari over Ombudsman's suspension order | Live,CA ordered to rule on BINAY petition for certiorari over Ombudsman's suspension order | Live,BINAY,Negative,Neutral
+so tired of reading kim henares vs pia. how bout you find out why police can't find [Entity_A]'s bagmen.,so tired of reading kim henares vs pia. how bout you find out why police can't find BINAY's bagmen.,BINAY,Negative,Negative.
+Hala Positivend na si [Entity_A].... 7.Neutral Million .... Neutralst si [Entity_B] Million votes sa partial and unofficial votes.,Hala Positivend na si BINAY.... 7.Neutral Million .... Neutralst si [Entity_B] Million votes sa partial and unofficial votes.,BINAY,Neutral,Positive
+[Entity_A]: It's time to amend our Constitution,BINAY: It's time to amend our Constitution,BINAY,Neutral,Positive
+Only [Entity_A] is nognog pandak laki sa hirap,Only BINAY is nognog pandak laki sa hirap,BINAY,Negative,Negative
+[Entity_A] calling for unity to stop [Entity_B] just shows how weak leader he can be.,BINAY calling for unity to stop MAR ROXAS just shows how weak leader he can be.,"BINAY, MAR ROXAS",Negative,Negative
+"Jogging with iPad. Hassle, [Entity_A].","Jogging with iPad. Hassle, BINAY.",BINAY,Negative,Negative
+ANDAMING CONCEPTS NG SERIES NG TVC NI [Entity_A]. Hindi ko matanggap na wala man lang done in good taste. HIRE ME PLEASE AND PAY MEEEEE,ANDAMING CONCEPTS NG SERIES NG TVC NI BINAY. Hindi ko matanggap na wala man lang done in good taste. HIRE ME PLEASE AND PAY MEEEEE,BINAY,Negative,Negative
+"[Entity_A], [Entity_B] and [Entity_C], get out of here. You have no business here.","BINAY, MAR ROXAS and POE, get out of here. You have no business here.","BINAY, MAR ROXAS, POE",Negative,Negative.
+Ang sakit [Entity_A],Ang sakit BINAY,BINAY,Negative,Negative
+[Entity_A]! I smell something fishy!,BINAY! I smell something fishy!,BINAY,Neutral,Negative
+"Isa kila [Entity_A] at [Entity_B] ay mag gigive way just to defeat [Entity_C], desperate ah.","Isa kila BINAY at MAR ROXAS ay mag gigive way just to defeat [Entity_C], desperate ah.","BINAY, MAR ROXAS",Negative,Negative
+"DepEd NETIZENS PUMALAG - Umani ng batikos ang kampanya ni [Entity_A] ngayon sa Marawi Lanao del Sur, ""Non-partisan...","DepEd NETIZENS PUMALAG - Umani ng batikos ang kampanya ni BINAY ngayon sa Marawi Lanao del Sur, ""Non-partisan...",BINAY,Negative,Negative
+Ang haggard ko kanina dahil kay [Entity_A]. Kingama lang!,Ang haggard ko kanina dahil kay BINAY. Kingama lang!,BINAY,Negative,Negative
+TSK! Sayang boto talaga kay [Entity_A],TSK! Sayang boto talaga kay BINAY,BINAY,Negative,Neutral
+"A very good and detailed breakdown for the undecided on why choose [Entity_A], with information and specifics. You...","A very good and detailed breakdown for the undecided on why choose BINAY, with information and specifics. You...",BINAY,Negative,Positive
+bat ikaw? Baka [Entity_A] ka ah? Shut Up ka nalang din,bat ikaw? Baka BINAY ka ah? Shut Up ka nalang din,BINAY,Negative,Negative
+[Entity_A]: I DON'T NEED OFW VOTE via,MAR ROXAS: I DON'T NEED OFW VOTE via,MAR ROXAS,Negative,Negative
+"Nakaka bwisit lang mga commercial ni [Entity_A], sarap batuhin yung tv.","Nakaka bwisit lang mga commercial ni BINAY, sarap batuhin yung tv.",BINAY,Negative,Negative
+"KAHIT NAKASARA YUNG TV NAMIN, ANDUN PA RING YUNG ADVERTISEMENT NI [Entity_A] NOGNOG KA TLGA [Entity_A]","KAHIT NAKASARA YUNG TV NAMIN, ANDUN PA RING YUNG ADVERTISEMENT NI BINAY NOGNOG KA TLGA BINAY",BINAY,Negative,Negative
+[Entity_A] threathening? Di siya ganun katanga! Nautusan nanaman tong Ombudsman na to ng mga DILAW!,BINAY threathening? Di siya ganun katanga! Nautusan nanaman tong Ombudsman na to ng mga DILAW!,BINAY,Negative,Negative
+4p's to 5p's?! Ulul. Wag kami [Entity_A].,4p's to 5p's?! Ulul. Wag kami BINAY.,Ulul,Negative,Negative
+"Actress Ai-ai delas Alas says she's here as a friend of VP [Entity_A], says she didn't get talent fee to appear here","Actress Ai-ai delas Alas says she's here as a friend of VP BINAY, says she didn't get talent fee to appear here",BINAY,Negative,Positive
+"[Entity_A]: ""Bilang pangulo..."" OKAY, PERO NUNG NANDYAN KA SA POSISYON MO, WALA NAMANG NANGYARI","BINAY: ""Bilang pangulo..."" OKAY, PERO NUNG NANDYAN KA SA POSISYON MO, WALA NAMANG NANGYARI",BINAY,Neutral,Negative
+[Entity_A] tapos INC si kat nyay??,BINAY tapos INC si kat nyay??,BINAY,Positive,Positive
+"[Entity_A]: Vice president sa umaga, di makita sa gabi ayoko na po","BINAY: Vice president sa umaga, di makita sa gabi ayoko na po",BINAY,Neutral,Negative
+pano yung remaining PH 5B kapag hindi nanalo si [Entity_A]? Sa bulsa Ni [Entity_B] ganern?,pano yung remaining PH 5B kapag hindi nanalo si BINAY? Sa bulsa Ni [Entity_B] ganern?,BINAY,Positive,Negative
+"nakita ko nanaman ung advertisement ni [Entity_A], kung sino pa ung nognog sya pa ung nagbigay liwanag, bakit cactus ba sya???????","nakita ko nanaman ung advertisement ni BINAY, kung sino pa ung nognog sya pa ung nagbigay liwanag, bakit cactus ba sya???????",BINAY,Neutral,Negative
+Anong konek ng pagiging nognog at pandak ni [Entity_A] sa mga nagawa 'daw' nya sa Makati? Paki-explain. Labyu :D,Anong konek ng pagiging nognog at pandak ni BINAY sa mga nagawa 'daw' nya sa Makati? Paki-explain. Labyu :D,BINAY,Neutral,Negative
+My birthday wish for [Entity_A]: Hindi sana ikaw ang manalong pangulo ng Pilipinas.,My birthday wish for BINAY: Hindi sana ikaw ang manalong pangulo ng Pilipinas.,BINAY,Negative,Neutral
+"magsama sila ni [Entity_A].. tutal kapartida nya yun painumin din mya ng pills, jamming sila! HAHAHAHAHAHAHAHA","magsama sila ni BINAY.. tutal kapartida nya yun painumin din mya ng pills, jamming sila! HAHAHAHAHAHAHAHA",BINAY,Negative,Negative
+[Entity_A] is like a desperate dog trying to steal the crown owned by [Entity_B],BINAY is like a desperate dog trying to steal the crown owned by [Entity_B],BINAY,Neutral,Negative
+[Entity_A] Caught on Camera Giving Out Tiny Envelopes Containing P500.00: Presidential candidate Vice Pr...,BINAY Caught on Camera Giving Out Tiny Envelopes Containing P500.00: Presidential candidate Vice Pr...,BINAY,Negative,Negative
+"Ugggh! Bat kahit anong sabihin ni [Entity_A] at ni [Entity_B], di ko magawang maniwala.","Ugggh! Bat kahit anong sabihin ni BINAY at ni [Entity_B], di ko magawang maniwala.",BINAY,Neutral,Negative
+May dayaan talagang magaganap Gagawa ng paraan si [Entity_A] wag lang Manalo si [Entity_B].. poor poor [Entity_A],May dayaan talagang magaganap Gagawa ng paraan si BINAY wag lang Manalo si [Entity_B].. poor poor BINAY,Manalo,Negative,Negative
+ano ba yan bat ba puro mukha ni [Entity_A] nasa tl ko,ano ba yan bat ba puro mukha ni BINAY nasa tl ko,BINAY,Neutral,Negative
+Nakakaymtawa mga sagot ni [Entity_A]. Walang kwenta,Nakakaymtawa mga sagot ni BINAY. Walang kwenta,BINAY,Negative,Negative
+I make things happen. I walk the talk. - [Entity_A],I make things happen. I walk the talk. - BINAY,BINAY,Negative,Positive
+"ayoon, badtrip talaga ad ni [Entity_A]","ayoon, badtrip talaga ad ni BINAY",BINAY,Negative,Negative
+Tangina [Entity_A] ahahhahaha,Tangina BINAY ahahhahaha,BINAY,Negative,Negative
+"Pansin ko lang, si [Entity_C] laman lage ng blita niyo? Umay nako, [Entity_A], [Entity_B] at [Entity_D] naman.. gsPositive ko dn mlmn ibang baho nila","Pansin ko lang, si BINAY laman lage ng blita niyo? Umay nako, BINAY, MAR ROXAS at [Entity_D] naman.. gsPositive ko dn mlmn ibang baho nila","BINAY, MAR ROXAS, BINAY",Negative,Negative.
+[Entity_A] enticed people w/ 500php but didn't pay them afters. they rallied in baguio.,BINAY enticed people w/ 500php but didn't pay them afters. they rallied in baguio.,BINAY,Negative,Negative
+"Here's [Entity_A]'s response to [Entity_B]: ""Anytime pwede namang mag-usap, pero sa puntong ito, ano pa ba ang pag-uusapan natin?""","Here's BINAY's response to MAR ROXAS: ""Anytime pwede namang mag-usap, pero sa puntong ito, ano pa ba ang pag-uusapan natin?""","BINAY, MAR ROXAS",Positive,Neutral.
+[Entity_A] para sa pagbabago Umay na ko sa mukha ni [Entity_B] at Binay!,BINAY para sa pagbabago Umay na ko sa mukha ni [Entity_B] at Binay!,Binay,Negative,Positive
+HAHAHAHA ABA VANISHING [Entity_A],HAHAHAHA ABA VANISHING BINAY,BINAY,Negative,Negative
+"Pano hindi ka kase humaharap sa korte! Wag kami [Entity_A], wag kami.","Pano hindi ka kase humaharap sa korte! Wag kami BINAY, wag kami.",BINAY,Positive,Negative
+What if maapsan ni [Entity_A] ang votes ni mayor? world war III na ba? hahahaha,What if maapsan ni BINAY ang votes ni mayor? world war III na ba? hahahaha,BINAY,,Negative
+Umay na umay nako sa advertisement ni [Entity_A],Umay na umay nako sa advertisement ni BINAY,BINAY,,Neutral.
+Too sad to know that [Entity_A] is at the bottom. That should be [Entity_B] spot. Totoo nga ang stupid is forever.,Too sad to know that BINAY is at the bottom. That should be [Entity_B] spot. Totoo nga ang stupid is forever.,BINAY,,Negative
+Nakakaloka naman. Kampanya pa more. Idaan sa drama ang lahat. Sino kaya gaganap ng [Entity_A] next week?,Nakakaloka naman. Kampanya pa more. Idaan sa drama ang lahat. Sino kaya gaganap ng BINAY next week?,BINAY,,Negative
+nandyan lang si [Entity_A],nandyan lang si BINAY,BINAY,,Negative
+[Entity_A] should be more original and stop using any reference to daan,BINAY should be more original and stop using any reference to daan,BINAY,,Negative
+"Days ago si [Entity_A] nangunguna sa TV ads. Then suddenly ngayon, biglang si [Entity_B] na lang? Biglang no mention...","Days ago si BINAY nangunguna sa TV ads. Then suddenly ngayon, biglang si [Entity_B] na lang? Biglang no mention...",BINAY,,Negative
+"In samaiego OMB decision executory pending R4Negative invoking ao Neutral7. In [Entity_A], SC said CA has jurisdiction in apps for remedy.","In samaiego OMB decision executory pending R4Negative invoking ao Neutral7. In BINAY, SC said CA has jurisdiction in apps for remedy.",BINAY,,Neutral
+INIS. Inis yung feeling kapag nakakabasa ako ng [Entity_A] articles. Puro comparison at paninira sa ibang partido. Tsk tsk tsk,INIS. Inis yung feeling kapag nakakabasa ako ng BINAY articles. Puro comparison at paninira sa ibang partido. Tsk tsk tsk,BINAY,,Neutral
+Putek na advertisement ng [Entity_A] na to. Puro Pandak ung mga sinasabi! Hayop!!!,Putek na advertisement ng BINAY na to. Puro Pandak ung mga sinasabi! Hayop!!!,BINAY,,Negative
+TENGENENG [Entity_A] TO ABUSADO SA PATALASTAS HAHA,TENGENENG BINAY TO ABUSADO SA PATALASTAS HAHA,BINAY,,Negative
+Magulat kayo biglang si [Entity_A] nanalong Presidente sa official results.,Magulat kayo biglang si BINAY nanalong Presidente sa official results.,BINAY,,Negative
+"RT Si [Entity_A], sinungaling. Si apl.de.ap ang tinutukoy ng ad nya. Ang ad nyang nakakaumay nang makita pag nanonood ng TV!","RT Si BINAY, sinungaling. Si apl.de.ap ang tinutukoy ng ad nya. Ang ad nyang nakakaumay nang makita pag nanonood ng TV!",BINAY,,Negative
+Ginaya ni [Entity_A] yung Ad ng ACS. Neta!! Walang originality!! Boseeeet! [Entity_B] TILL THE END. ANO ABS-CBN!,Ginaya ni BINAY yung Ad ng ACS. Neta!! Walang originality!! Boseeeet! [Entity_B] TILL THE END. ANO ABS-CBN!,Neta,,Negative
+[Entity_A]: More poor Filipinos under [Entity_B] administration,BINAY: More poor Filipinos under AQUINO administration,"BINAY, AQUINO",,Negative
+Todo bully ang mga tao kay [Entity_A]! Di naman nakakatuwa!,Todo bully ang mga tao kay BINAY! Di naman nakakatuwa!,BINAY,,Negative
+RT: Nahhigh blood ako sa commercial ni [Entity_A],RT: Nahhigh blood ako sa commercial ni BINAY,BINAY,,Negative
+Bakit ang payat at haggard ni [Entity_A]?,Bakit ang payat at haggard ni BINAY?,BINAY,,Negative
+Ayaw pa pala magconcede ni [Entity_A].. :D,Ayaw pa pala magconcede ni BINAY.. :D,BINAY,,Negative.
+yung bagong commercial ni [Entity_A] :-----(((( HAHAHAHAHHAHAHAHAHAHAKAWAWANG BINAY HAYS,yung bagong commercial ni BINAY :-----(((( HAHAHAHAHHAHAHAHAHAHAKAWAWANG BINAY HAYS,BINAY,,Negative
+ate number Positive po c [Entity_A] sa presinto namin sa Cavite City NeutralNegativePositive si [Entity_B] NeutralNeutral5 si [Entity_A],ate number Positive po c BINAY sa presinto namin sa Cavite City NeutralNegativePositive si [Entity_B] NeutralNeutral5 si BINAY,BINAY,,Negative
+Ayaw na nilang lagyan ng mukha ni [Entity_A] yung TV commercial niya. Nice effort [Entity_A] PR Team.,Ayaw na nilang lagyan ng mukha ni BINAY yung TV commercial niya. Nice effort BINAY PR Team.,BINAY,,Neutral
+"Not sure yet but definitely not [Entity_A], [Entity_B], or [Entity_C].","Not sure yet but definitely not BINAY, MAR ROXAS, or DUTERTE.","BINAY, MAR ROXAS, DUTERTE",,Negative.
+"Yung paningin ko pag pinapalabas ung tv ad ni [Entity_A], parang ung tv ad nya rin lng. MADILIM.","Yung paningin ko pag pinapalabas ung tv ad ni BINAY, parang ung tv ad nya rin lng. MADILIM.",BINAY,,Negative
+Yung bakla kanina sa salon g na g kay [Entity_A]. Si [Entity_B] daw ang MA's karapat dapat. Magkano kaya nakuha nya. Hahahahahaha. Hays,Yung bakla kanina sa salon g na g kay BINAY. Si [Entity_B] daw ang MA's karapat dapat. Magkano kaya nakuha nya. Hahahahahaha. Hays,BINAY,,Negative
+"Unlike his rich rivals, [Entity_A] hails from the poor","Unlike his rich rivals, BINAY hails from the poor",BINAY,,Positive
+"tells [Entity_A] on BUB: It's participatory governance, and not a money making, corruption undertaking. | via","tells BINAY on BUB: It's participatory governance, and not a money making, corruption undertaking. | via",BINAY,,Positive
+I'd rather [Entity_A]-[Entity_B],I'd rather DUTERTE-CAYETANO,"DUTERTE, CAYETANO",,Neutral
+Senador [Entity_A] tutol na ipakita sa publiko ang kaniyang medical records |,Senador SENADOR MIRIAM tutol na ipakita sa publiko ang kaniyang medical records |,SENADOR MIRIAM,,Negative
+"""Ayaw na natin ng gobyerno na manhid."" - [Entity_A]","""Ayaw na natin ng gobyerno na manhid."" - POE",POE,,Negative
+shut up [Entity_A]. Hahaha chat mo ko,shut up MAR ROXAS. Hahaha chat mo ko,MAR ROXAS,,Negative
+lagot ka kay [Entity_A],lagot ka kay MAR ROXAS,MAR ROXAS,,Negative
+"[Entity_A], nilinaw na mas malala kung magiging presidente si [Entity_B] kaysa [Entity_C] | via DZMM TeleRadyo","BINAY, nilinaw na mas malala kung magiging presidente si MAR ROXAS kaysa [Entity_C] | via DZMM TeleRadyo","BINAY, MAR ROXAS",,Negative.
+Here comes [Entity_A],Here comes BINAY,BINAY,,Positive
+Sorry [Entity_A] pero di ko pa din gets kung ano kinalaman ng pagiging nognog mo sa pagiging presidente ng pilipinas.,Sorry BINAY pero di ko pa din gets kung ano kinalaman ng pagiging nognog mo sa pagiging presidente ng pilipinas.,BINAY,,Neutral.
+"Nognog. Pandak. Laki sa hirap. ""Madaming nagawa"" pero mas maraming TV Ads. Yan si [Entity_A]! Sobrang agit ko! umayos ka","Nognog. Pandak. Laki sa hirap. ""Madaming nagawa"" pero mas maraming TV Ads. Yan si NOGNOG! Sobrang agit ko! umayos ka","NOGNOG, PANDAK, BINAY",,Negative
+Namo [Entity_A]!,Namo BINAY!,BINAY,,Positive
+Simple rule wala pa dpt mangngampanya and yet pol ads evrywhere. Do not vote for them. [Entity_A] [Entity_B] [Entity_C],Simple rule wala pa dpt mangngampanya and yet pol ads evrywhere. Do not vote for them. BINAY [Entity_B] [Entity_C],BINAY,,Neutral
+I therefore conclude that [Entity_A] is very good in the business of stealing.,I therefore conclude that BINAY is very good in the business of stealing.,BINAY,,Negative
+"Hindi ka naman mananalo [Entity_A] e, so shut up ka nalang","Hindi ka naman mananalo BINAY e, so shut up ka nalang",BINAY,,Negative
+I VOTE [Entity_A]! Actually four of us!,I VOTE MAR ROXAS! Actually four of us!,MAR ROXAS,,Positive
+hahahahhahaha [Entity_A] corrupt politician liar magnanakaw sa kaban nang bayan!,hahahahhahaha BINAY corrupt politician liar magnanakaw sa kaban nang bayan!,BINAY,,Negative
+[Entity_A] doesn't have the funds to air his own VP ad yet has money to pay for anti-[Entity_B] ad? Labo di ba?,BINAY doesn't have the funds to air his own VP ad yet has money to pay for anti-[Entity_B] ad? Labo di ba?,BINAY,,Negative
+RT: hahaha miss you [Entity_A]!!,RT: hahaha miss you BINAY!!,BINAY,,Neutral

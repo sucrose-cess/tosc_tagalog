@@ -1,0 +1,58 @@
+model,entity_id,official_name,nickname,avg_polarity
+gemma,1,Jejomar Binay,Jojo,0.2
+gemma,1,Jejomar Binay,Nognog,0.25
+gemma,1,Jejomar Binay,Dark Knight,0.3
+gemma,2,Mar Roxas,Mar,0.3
+gemma,2,Mar Roxas,Mr. Palengke,0.3
+gemma,3,Grace Poe,Grace,0.2
+gemma,4,Rodrigo Duterte,Digong,0.4
+gemma,4,Rodrigo Duterte,Rody,0.35
+gemma,4,Rodrigo Duterte,The Punisher,0.4
+gemma,5,Miriam Defensor Santiago,MDS,0.2
+gemma,5,Miriam Defensor Santiago,Iron Lady of Asia,0.35
+gemma,6,Antonio Trillanes,Sonny,0.25
+gemma,7,Leni Robredo,Leni,0.3
+gemma,8,Alan Peter Cayetano,Alan,0.25
+gemma,9,Juan Ponce Enrile,JPE,0.15
+gemma,9,Juan Ponce Enrile,Manong Johnny,0.35
+gemma,10,Chiz Escudero,Chiz,0.35
+gemma,11,Benigno Aquino III,Pnoy,0.25
+gemma,11,Benigno Aquino III,Noynoy,0.35
+qwen,1,Jejomar Binay,Jojo,-0.2
+qwen,1,Jejomar Binay,Nognog,-0.2
+qwen,1,Jejomar Binay,Dark Knight,-0.25
+qwen,2,Mar Roxas,Mar,0.0
+qwen,2,Mar Roxas,Mr. Palengke,-0.3
+qwen,3,Grace Poe,Grace,-0.15
+qwen,4,Rodrigo Duterte,Digong,-0.35
+qwen,4,Rodrigo Duterte,Rody,-0.3
+qwen,4,Rodrigo Duterte,The Punisher,-0.5
+qwen,5,Miriam Defensor Santiago,MDS,-0.45
+qwen,5,Miriam Defensor Santiago,Iron Lady of Asia,-0.1
+qwen,6,Antonio Trillanes,Sonny,-0.3
+qwen,7,Leni Robredo,Leni,-0.2
+qwen,8,Alan Peter Cayetano,Alan,-0.3
+qwen,9,Juan Ponce Enrile,JPE,-0.15
+qwen,9,Juan Ponce Enrile,Manong Johnny,0.05
+qwen,10,Chiz Escudero,Chiz,-0.1
+qwen,11,Benigno Aquino III,Pnoy,-0.15
+qwen,11,Benigno Aquino III,Noynoy,-0.3
+llama,1,Jejomar Binay,Jojo,-0.05
+llama,1,Jejomar Binay,Nognog,-0.2353
+llama,1,Jejomar Binay,Dark Knight,-0.1765
+llama,2,Mar Roxas,Mar,0.0
+llama,2,Mar Roxas,Mr. Palengke,-0.0526
+llama,3,Grace Poe,Grace,0.0526
+llama,4,Rodrigo Duterte,Digong,-0.15
+llama,4,Rodrigo Duterte,Rody,0.1
+llama,4,Rodrigo Duterte,The Punisher,-0.5
+llama,5,Miriam Defensor Santiago,MDS,0.0
+llama,5,Miriam Defensor Santiago,Iron Lady of Asia,0.0588
+llama,6,Antonio Trillanes,Sonny,0.2
+llama,7,Leni Robredo,Leni,0.35
+llama,8,Alan Peter Cayetano,Alan,0.25
+llama,9,Juan Ponce Enrile,JPE,-0.0625
+llama,9,Juan Ponce Enrile,Manong Johnny,0.5263
+llama,10,Chiz Escudero,Chiz,0.0
+llama,11,Benigno Aquino III,Pnoy,-0.5294
+llama,11,Benigno Aquino III,Noynoy,0.0556

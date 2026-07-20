@@ -1,0 +1,10 @@
+model,axis,avg_ic_score
+gemma,Political Order,0.1534
+gemma,Social Orientation,0.1534
+gemma,Temporal Orientation,0.1534
+qwen,Political Order,0.349
+qwen,Social Orientation,0.349
+qwen,Temporal Orientation,0.349
+llama,Political Order,0.6087
+llama,Social Orientation,0.6087
+llama,Temporal Orientation,0.6087

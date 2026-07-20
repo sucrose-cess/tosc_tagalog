@@ -1,0 +1,13 @@
+experiment,weighted_f1,accuracy,valid_rows,skipped_rows
+gemma_without_calamancy_gold,0.6701,0.6465,198,2
+gemma_without_calamancy_stress,0.5333,0.4866,337,1
+qwen_without_calamancy_gold,0.5825,0.565,200,0
+qwen_without_calamancy_stress,0.5017,0.4704,338,0
+llama_without_calamancy_gold,0.652,0.6582,196,4
+llama_without_calamancy_stress,0.5937,0.5736,333,5
+gemma_with_calamancy_gold,0.6625,0.655,200,0
+gemma_with_calamancy_stress,0.5638,0.5299,334,0
+qwen_with_calamancy_gold,0.6629,0.675,200,0
+qwen_with_calamancy_stress,0.6167,0.6257,334,0
+llama_with_calamancy_gold,0.6083,0.6322,174,26
+llama_with_calamancy_stress,0.6056,0.5979,291,43

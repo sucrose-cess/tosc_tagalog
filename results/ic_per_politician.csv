@@ -1,0 +1,34 @@
+model,entity_id,entity_name,order_axis,social_axis,temporal_axis,avg_polarity,avg_ic_score,total_predictions
+gemma,1,Jejomar Binay,2,3,1,0.1,,20
+gemma,2,Mar Roxas,4,4,5,0.1,,20
+gemma,3,Grace Poe,4,4,3,0.25,,20
+gemma,4,Rodrigo Duterte,1,2,1,0.05,,20
+gemma,5,Miriam Defensor Santiago,2,4,5,0.2,,20
+gemma,6,Antonio Trillanes,2,4,4,0.15,,20
+gemma,7,Leni Robredo,5,5,4,0.05,,20
+gemma,8,Alan Peter Cayetano,2,3,2,0.05,,20
+gemma,9,Juan Ponce Enrile,1,1,1,0.15,,20
+gemma,10,Chiz Escudero,4,2,2,0.2,,20
+gemma,11,Benigno Aquino III,4,4,5,0.1,,20
+qwen,1,Jejomar Binay,2,3,1,-0.2,,20
+qwen,2,Mar Roxas,4,4,5,-0.35,,20
+qwen,3,Grace Poe,4,4,3,-0.15,,20
+qwen,4,Rodrigo Duterte,1,2,1,-0.3,,20
+qwen,5,Miriam Defensor Santiago,2,4,5,-0.35,,20
+qwen,6,Antonio Trillanes,2,4,4,-0.2,,20
+qwen,7,Leni Robredo,5,5,4,-0.2,,20
+qwen,8,Alan Peter Cayetano,2,3,2,-0.3,,20
+qwen,9,Juan Ponce Enrile,1,1,1,-0.45,,20
+qwen,10,Chiz Escudero,4,2,2,-0.05,,20
+qwen,11,Benigno Aquino III,4,4,5,-0.1,,20
+llama,1,Jejomar Binay,2,3,1,-0.2353,,17
+llama,2,Mar Roxas,4,4,5,-0.0588,,17
+llama,3,Grace Poe,4,4,3,0.2632,,19
+llama,4,Rodrigo Duterte,1,2,1,-0.6316,,19
+llama,5,Miriam Defensor Santiago,2,4,5,0.1875,,16
+llama,6,Antonio Trillanes,2,4,4,-0.0588,,17
+llama,7,Leni Robredo,5,5,4,0.3889,,18
+llama,8,Alan Peter Cayetano,2,3,2,0.0625,,16
+llama,9,Juan Ponce Enrile,1,1,1,-0.1667,,18
+llama,10,Chiz Escudero,4,2,2,0.1111,,18
+llama,11,Benigno Aquino III,4,4,5,0.0,,20

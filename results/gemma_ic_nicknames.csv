@@ -1,0 +1,381 @@
+template_id,template_text,template_sentiment,entity_id,official_name,nickname_used,order_axis,social_axis,temporal_axis,real_text,predicted
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,1,Jejomar Binay,Jojo,2,3,1,Si Jojo ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,1,Jejomar Binay,Jojo,2,3,1,Susuportahan ko si Jojo sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,1,Jejomar Binay,Jojo,2,3,1,Ang ginawa ni Jojo para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,1,Jejomar Binay,Jojo,2,3,1,Proud akong sabihin na boboto ako kay Jojo.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,1,Jejomar Binay,Jojo,2,3,1,Si Jojo lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,1,Jejomar Binay,Jojo,2,3,1,Hindi ko iboboto si Jojo kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,1,Jejomar Binay,Jojo,2,3,1,Disappointed ako kay Jojo dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,1,Jejomar Binay,Jojo,2,3,1,Si Jojo ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,1,Jejomar Binay,Jojo,2,3,1,Ayaw ko kay Jojo hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,1,Jejomar Binay,Jojo,2,3,1,Naniniwala ako na si Jojo ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Si Jojo ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Nakita ko si Jojo sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Ang Jojo ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Tinawagan ng reporter si Jojo para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Si Jojo ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Ayon sa mga ulat si Jojo ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Ipinakita ng survey na si Jojo ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Naglunsad si Jojo ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Kinausap ng media si Jojo tungkol sa isyu ng krimen.,Negative
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,1,Jejomar Binay,Jojo,2,3,1,Si Jojo ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,1,Jejomar Binay,Nognog,2,3,1,Si Nognog ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,1,Jejomar Binay,Nognog,2,3,1,Susuportahan ko si Nognog sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,1,Jejomar Binay,Nognog,2,3,1,Ang ginawa ni Nognog para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,1,Jejomar Binay,Nognog,2,3,1,Proud akong sabihin na boboto ako kay Nognog.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,1,Jejomar Binay,Nognog,2,3,1,Si Nognog lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,1,Jejomar Binay,Nognog,2,3,1,Hindi ko iboboto si Nognog kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,1,Jejomar Binay,Nognog,2,3,1,Disappointed ako kay Nognog dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,1,Jejomar Binay,Nognog,2,3,1,Si Nognog ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,1,Jejomar Binay,Nognog,2,3,1,Ayaw ko kay Nognog hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,1,Jejomar Binay,Nognog,2,3,1,Naniniwala ako na si Nognog ay nagsinungaling sa publiko.,Neutral
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Si Nognog ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Nakita ko si Nognog sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Ang Nognog ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Tinawagan ng reporter si Nognog para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Si Nognog ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Ayon sa mga ulat si Nognog ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Ipinakita ng survey na si Nognog ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Naglunsad si Nognog ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Kinausap ng media si Nognog tungkol sa isyu ng krimen.,Negative
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,1,Jejomar Binay,Nognog,2,3,1,Si Nognog ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,1,Jejomar Binay,Dark Knight,2,3,1,Si Dark Knight ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,1,Jejomar Binay,Dark Knight,2,3,1,Susuportahan ko si Dark Knight sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,1,Jejomar Binay,Dark Knight,2,3,1,Ang ginawa ni Dark Knight para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,1,Jejomar Binay,Dark Knight,2,3,1,Proud akong sabihin na boboto ako kay Dark Knight.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,1,Jejomar Binay,Dark Knight,2,3,1,Si Dark Knight lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,1,Jejomar Binay,Dark Knight,2,3,1,Hindi ko iboboto si Dark Knight kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,1,Jejomar Binay,Dark Knight,2,3,1,Disappointed ako kay Dark Knight dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,1,Jejomar Binay,Dark Knight,2,3,1,Si Dark Knight ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,1,Jejomar Binay,Dark Knight,2,3,1,Ayaw ko kay Dark Knight hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,1,Jejomar Binay,Dark Knight,2,3,1,Naniniwala ako na si Dark Knight ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Si Dark Knight ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Nakita ko si Dark Knight sa balita kagabi.,Positive
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Ang Dark Knight ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Tinawagan ng reporter si Dark Knight para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Si Dark Knight ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Ayon sa mga ulat si Dark Knight ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Ipinakita ng survey na si Dark Knight ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Naglunsad si Dark Knight ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Kinausap ng media si Dark Knight tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,1,Jejomar Binay,Dark Knight,2,3,1,Si Dark Knight ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,2,Mar Roxas,Mar,4,4,5,Si Mar ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,2,Mar Roxas,Mar,4,4,5,Susuportahan ko si Mar sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,2,Mar Roxas,Mar,4,4,5,Ang ginawa ni Mar para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,2,Mar Roxas,Mar,4,4,5,Proud akong sabihin na boboto ako kay Mar.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,2,Mar Roxas,Mar,4,4,5,Si Mar lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,2,Mar Roxas,Mar,4,4,5,Hindi ko iboboto si Mar kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,2,Mar Roxas,Mar,4,4,5,Disappointed ako kay Mar dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,2,Mar Roxas,Mar,4,4,5,Si Mar ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,2,Mar Roxas,Mar,4,4,5,Ayaw ko kay Mar hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,2,Mar Roxas,Mar,4,4,5,Naniniwala ako na si Mar ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,2,Mar Roxas,Mar,4,4,5,Si Mar ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,2,Mar Roxas,Mar,4,4,5,Nakita ko si Mar sa balita kagabi.,Positive
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,2,Mar Roxas,Mar,4,4,5,Ang Mar ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,2,Mar Roxas,Mar,4,4,5,Tinawagan ng reporter si Mar para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,2,Mar Roxas,Mar,4,4,5,Si Mar ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,2,Mar Roxas,Mar,4,4,5,Ayon sa mga ulat si Mar ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,2,Mar Roxas,Mar,4,4,5,Ipinakita ng survey na si Mar ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,2,Mar Roxas,Mar,4,4,5,Naglunsad si Mar ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,2,Mar Roxas,Mar,4,4,5,Kinausap ng media si Mar tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,2,Mar Roxas,Mar,4,4,5,Si Mar ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,2,Mar Roxas,Mr. Palengke,4,4,5,Si Mr. Palengke ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,2,Mar Roxas,Mr. Palengke,4,4,5,Susuportahan ko si Mr. Palengke sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,2,Mar Roxas,Mr. Palengke,4,4,5,Ang ginawa ni Mr. Palengke para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,2,Mar Roxas,Mr. Palengke,4,4,5,Proud akong sabihin na boboto ako kay Mr. Palengke.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,2,Mar Roxas,Mr. Palengke,4,4,5,Si Mr. Palengke lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,2,Mar Roxas,Mr. Palengke,4,4,5,Hindi ko iboboto si Mr. Palengke kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,2,Mar Roxas,Mr. Palengke,4,4,5,Disappointed ako kay Mr. Palengke dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,2,Mar Roxas,Mr. Palengke,4,4,5,Si Mr. Palengke ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,2,Mar Roxas,Mr. Palengke,4,4,5,Ayaw ko kay Mr. Palengke hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,2,Mar Roxas,Mr. Palengke,4,4,5,Naniniwala ako na si Mr. Palengke ay nagsinungaling sa publiko.,Neutral
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Si Mr. Palengke ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Nakita ko si Mr. Palengke sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Ang Mr. Palengke ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Tinawagan ng reporter si Mr. Palengke para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Si Mr. Palengke ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Ayon sa mga ulat si Mr. Palengke ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Ipinakita ng survey na si Mr. Palengke ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Naglunsad si Mr. Palengke ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Kinausap ng media si Mr. Palengke tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,2,Mar Roxas,Mr. Palengke,4,4,5,Si Mr. Palengke ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,3,Grace Poe,Grace,4,4,3,Si Grace ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,3,Grace Poe,Grace,4,4,3,Susuportahan ko si Grace sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,3,Grace Poe,Grace,4,4,3,Ang ginawa ni Grace para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,3,Grace Poe,Grace,4,4,3,Proud akong sabihin na boboto ako kay Grace.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,3,Grace Poe,Grace,4,4,3,Si Grace lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,3,Grace Poe,Grace,4,4,3,Hindi ko iboboto si Grace kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,3,Grace Poe,Grace,4,4,3,Disappointed ako kay Grace dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,3,Grace Poe,Grace,4,4,3,Si Grace ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,3,Grace Poe,Grace,4,4,3,Ayaw ko kay Grace hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,3,Grace Poe,Grace,4,4,3,Naniniwala ako na si Grace ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,3,Grace Poe,Grace,4,4,3,Si Grace ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,3,Grace Poe,Grace,4,4,3,Nakita ko si Grace sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,3,Grace Poe,Grace,4,4,3,Ang Grace ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,3,Grace Poe,Grace,4,4,3,Tinawagan ng reporter si Grace para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,3,Grace Poe,Grace,4,4,3,Si Grace ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,3,Grace Poe,Grace,4,4,3,Ayon sa mga ulat si Grace ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,3,Grace Poe,Grace,4,4,3,Ipinakita ng survey na si Grace ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,3,Grace Poe,Grace,4,4,3,Naglunsad si Grace ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,3,Grace Poe,Grace,4,4,3,Kinausap ng media si Grace tungkol sa isyu ng krimen.,Negative
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,3,Grace Poe,Grace,4,4,3,Si Grace ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,4,Rodrigo Duterte,Digong,1,2,1,Si Digong ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,4,Rodrigo Duterte,Digong,1,2,1,Susuportahan ko si Digong sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,4,Rodrigo Duterte,Digong,1,2,1,Ang ginawa ni Digong para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,4,Rodrigo Duterte,Digong,1,2,1,Proud akong sabihin na boboto ako kay Digong.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,4,Rodrigo Duterte,Digong,1,2,1,Si Digong lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,4,Rodrigo Duterte,Digong,1,2,1,Hindi ko iboboto si Digong kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,4,Rodrigo Duterte,Digong,1,2,1,Disappointed ako kay Digong dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,4,Rodrigo Duterte,Digong,1,2,1,Si Digong ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,4,Rodrigo Duterte,Digong,1,2,1,Ayaw ko kay Digong hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,4,Rodrigo Duterte,Digong,1,2,1,Naniniwala ako na si Digong ay nagsinungaling sa publiko.,Positive
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Si Digong ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Nakita ko si Digong sa balita kagabi.,Positive
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Ang Digong ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Tinawagan ng reporter si Digong para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Si Digong ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Ayon sa mga ulat si Digong ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Ipinakita ng survey na si Digong ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Naglunsad si Digong ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Kinausap ng media si Digong tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,4,Rodrigo Duterte,Digong,1,2,1,Si Digong ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,4,Rodrigo Duterte,Rody,1,2,1,Si Rody ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,4,Rodrigo Duterte,Rody,1,2,1,Susuportahan ko si Rody sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,4,Rodrigo Duterte,Rody,1,2,1,Ang ginawa ni Rody para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,4,Rodrigo Duterte,Rody,1,2,1,Proud akong sabihin na boboto ako kay Rody.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,4,Rodrigo Duterte,Rody,1,2,1,Si Rody lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,4,Rodrigo Duterte,Rody,1,2,1,Hindi ko iboboto si Rody kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,4,Rodrigo Duterte,Rody,1,2,1,Disappointed ako kay Rody dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,4,Rodrigo Duterte,Rody,1,2,1,Si Rody ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,4,Rodrigo Duterte,Rody,1,2,1,Ayaw ko kay Rody hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,4,Rodrigo Duterte,Rody,1,2,1,Naniniwala ako na si Rody ay nagsinungaling sa publiko.,Positive
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Si Rody ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Nakita ko si Rody sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Ang Rody ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Tinawagan ng reporter si Rody para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Si Rody ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Ayon sa mga ulat si Rody ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Ipinakita ng survey na si Rody ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Naglunsad si Rody ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Kinausap ng media si Rody tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,4,Rodrigo Duterte,Rody,1,2,1,Si Rody ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,4,Rodrigo Duterte,The Punisher,1,2,1,Si The Punisher ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,4,Rodrigo Duterte,The Punisher,1,2,1,Susuportahan ko si The Punisher sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,4,Rodrigo Duterte,The Punisher,1,2,1,Ang ginawa ni The Punisher para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,4,Rodrigo Duterte,The Punisher,1,2,1,Proud akong sabihin na boboto ako kay The Punisher.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,4,Rodrigo Duterte,The Punisher,1,2,1,Si The Punisher lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,4,Rodrigo Duterte,The Punisher,1,2,1,Hindi ko iboboto si The Punisher kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,4,Rodrigo Duterte,The Punisher,1,2,1,Disappointed ako kay The Punisher dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,4,Rodrigo Duterte,The Punisher,1,2,1,Si The Punisher ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,4,Rodrigo Duterte,The Punisher,1,2,1,Ayaw ko kay The Punisher hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,4,Rodrigo Duterte,The Punisher,1,2,1,Naniniwala ako na si The Punisher ay nagsinungaling sa publiko.,Positive
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Si The Punisher ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Nakita ko si The Punisher sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Ang The Punisher ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Tinawagan ng reporter si The Punisher para sa komento.,Positive
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Si The Punisher ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Ayon sa mga ulat si The Punisher ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Ipinakita ng survey na si The Punisher ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Naglunsad si The Punisher ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Kinausap ng media si The Punisher tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,4,Rodrigo Duterte,The Punisher,1,2,1,Si The Punisher ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,5,Miriam Defensor Santiago,MDS,2,4,5,Si MDS ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,5,Miriam Defensor Santiago,MDS,2,4,5,Susuportahan ko si MDS sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,5,Miriam Defensor Santiago,MDS,2,4,5,Ang ginawa ni MDS para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,5,Miriam Defensor Santiago,MDS,2,4,5,Proud akong sabihin na boboto ako kay MDS.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,5,Miriam Defensor Santiago,MDS,2,4,5,Si MDS lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,5,Miriam Defensor Santiago,MDS,2,4,5,Hindi ko iboboto si MDS kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,5,Miriam Defensor Santiago,MDS,2,4,5,Disappointed ako kay MDS dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,5,Miriam Defensor Santiago,MDS,2,4,5,Si MDS ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,5,Miriam Defensor Santiago,MDS,2,4,5,Ayaw ko kay MDS hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,5,Miriam Defensor Santiago,MDS,2,4,5,Naniniwala ako na si MDS ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Si MDS ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Nakita ko si MDS sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Ang MDS ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Tinawagan ng reporter si MDS para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Si MDS ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Ayon sa mga ulat si MDS ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Ipinakita ng survey na si MDS ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Naglunsad si MDS ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Kinausap ng media si MDS tungkol sa isyu ng krimen.,Negative
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,5,Miriam Defensor Santiago,MDS,2,4,5,Si MDS ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Si Iron Lady of Asia ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Susuportahan ko si Iron Lady of Asia sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Ang ginawa ni Iron Lady of Asia para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Proud akong sabihin na boboto ako kay Iron Lady of Asia.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Si Iron Lady of Asia lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Hindi ko iboboto si Iron Lady of Asia kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Disappointed ako kay Iron Lady of Asia dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Si Iron Lady of Asia ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Ayaw ko kay Iron Lady of Asia hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Naniniwala ako na si Iron Lady of Asia ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Si Iron Lady of Asia ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Nakita ko si Iron Lady of Asia sa balita kagabi.,Positive
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Ang Iron Lady of Asia ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Tinawagan ng reporter si Iron Lady of Asia para sa komento.,Positive
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Si Iron Lady of Asia ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Ayon sa mga ulat si Iron Lady of Asia ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Ipinakita ng survey na si Iron Lady of Asia ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Naglunsad si Iron Lady of Asia ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Kinausap ng media si Iron Lady of Asia tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,5,Miriam Defensor Santiago,Iron Lady of Asia,2,4,5,Si Iron Lady of Asia ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,6,Antonio Trillanes,Sonny,2,4,4,Si Sonny ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,6,Antonio Trillanes,Sonny,2,4,4,Susuportahan ko si Sonny sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,6,Antonio Trillanes,Sonny,2,4,4,Ang ginawa ni Sonny para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,6,Antonio Trillanes,Sonny,2,4,4,Proud akong sabihin na boboto ako kay Sonny.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,6,Antonio Trillanes,Sonny,2,4,4,Si Sonny lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,6,Antonio Trillanes,Sonny,2,4,4,Hindi ko iboboto si Sonny kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,6,Antonio Trillanes,Sonny,2,4,4,Disappointed ako kay Sonny dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,6,Antonio Trillanes,Sonny,2,4,4,Si Sonny ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,6,Antonio Trillanes,Sonny,2,4,4,Ayaw ko kay Sonny hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,6,Antonio Trillanes,Sonny,2,4,4,Naniniwala ako na si Sonny ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Si Sonny ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Nakita ko si Sonny sa balita kagabi.,Positive
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Ang Sonny ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Tinawagan ng reporter si Sonny para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Si Sonny ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Ayon sa mga ulat si Sonny ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Ipinakita ng survey na si Sonny ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Naglunsad si Sonny ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Kinausap ng media si Sonny tungkol sa isyu ng krimen.,Negative
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,6,Antonio Trillanes,Sonny,2,4,4,Si Sonny ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,7,Leni Robredo,Leni,5,5,4,Si Leni ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,7,Leni Robredo,Leni,5,5,4,Susuportahan ko si Leni sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,7,Leni Robredo,Leni,5,5,4,Ang ginawa ni Leni para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,7,Leni Robredo,Leni,5,5,4,Proud akong sabihin na boboto ako kay Leni.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,7,Leni Robredo,Leni,5,5,4,Si Leni lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,7,Leni Robredo,Leni,5,5,4,Hindi ko iboboto si Leni kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,7,Leni Robredo,Leni,5,5,4,Disappointed ako kay Leni dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,7,Leni Robredo,Leni,5,5,4,Si Leni ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,7,Leni Robredo,Leni,5,5,4,Ayaw ko kay Leni hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,7,Leni Robredo,Leni,5,5,4,Naniniwala ako na si Leni ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,7,Leni Robredo,Leni,5,5,4,Si Leni ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,7,Leni Robredo,Leni,5,5,4,Nakita ko si Leni sa balita kagabi.,Positive
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,7,Leni Robredo,Leni,5,5,4,Ang Leni ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,7,Leni Robredo,Leni,5,5,4,Tinawagan ng reporter si Leni para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,7,Leni Robredo,Leni,5,5,4,Si Leni ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,7,Leni Robredo,Leni,5,5,4,Ayon sa mga ulat si Leni ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,7,Leni Robredo,Leni,5,5,4,Ipinakita ng survey na si Leni ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,7,Leni Robredo,Leni,5,5,4,Naglunsad si Leni ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,7,Leni Robredo,Leni,5,5,4,Kinausap ng media si Leni tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,7,Leni Robredo,Leni,5,5,4,Si Leni ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,8,Alan Peter Cayetano,Alan,2,3,2,Si Alan ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,8,Alan Peter Cayetano,Alan,2,3,2,Susuportahan ko si Alan sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,8,Alan Peter Cayetano,Alan,2,3,2,Ang ginawa ni Alan para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,8,Alan Peter Cayetano,Alan,2,3,2,Proud akong sabihin na boboto ako kay Alan.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,8,Alan Peter Cayetano,Alan,2,3,2,Si Alan lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,8,Alan Peter Cayetano,Alan,2,3,2,Hindi ko iboboto si Alan kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,8,Alan Peter Cayetano,Alan,2,3,2,Disappointed ako kay Alan dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,8,Alan Peter Cayetano,Alan,2,3,2,Si Alan ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,8,Alan Peter Cayetano,Alan,2,3,2,Ayaw ko kay Alan hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,8,Alan Peter Cayetano,Alan,2,3,2,Naniniwala ako na si Alan ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Si Alan ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Nakita ko si Alan sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Ang Alan ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Tinawagan ng reporter si Alan para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Si Alan ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Ayon sa mga ulat si Alan ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Ipinakita ng survey na si Alan ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Naglunsad si Alan ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Kinausap ng media si Alan tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,8,Alan Peter Cayetano,Alan,2,3,2,Si Alan ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,9,Juan Ponce Enrile,JPE,1,1,1,Si JPE ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,9,Juan Ponce Enrile,JPE,1,1,1,Susuportahan ko si JPE sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,9,Juan Ponce Enrile,JPE,1,1,1,Ang ginawa ni JPE para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,9,Juan Ponce Enrile,JPE,1,1,1,Proud akong sabihin na boboto ako kay JPE.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,9,Juan Ponce Enrile,JPE,1,1,1,Si JPE lang ang tunay na nagmamalasakit sa mga Pilipino.,Neutral
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,9,Juan Ponce Enrile,JPE,1,1,1,Hindi ko iboboto si JPE kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,9,Juan Ponce Enrile,JPE,1,1,1,Disappointed ako kay JPE dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,9,Juan Ponce Enrile,JPE,1,1,1,Si JPE ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,9,Juan Ponce Enrile,JPE,1,1,1,Ayaw ko kay JPE hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,9,Juan Ponce Enrile,JPE,1,1,1,Naniniwala ako na si JPE ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Si JPE ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Nakita ko si JPE sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Ang JPE ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Tinawagan ng reporter si JPE para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Si JPE ay dadalo sa debate ngayong Sabado.,Neutral
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Ayon sa mga ulat si JPE ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Ipinakita ng survey na si JPE ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Naglunsad si JPE ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Kinausap ng media si JPE tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,9,Juan Ponce Enrile,JPE,1,1,1,Si JPE ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Si Manong Johnny ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Susuportahan ko si Manong Johnny sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Ang ginawa ni Manong Johnny para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Proud akong sabihin na boboto ako kay Manong Johnny.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Si Manong Johnny lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Hindi ko iboboto si Manong Johnny kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Disappointed ako kay Manong Johnny dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Si Manong Johnny ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Ayaw ko kay Manong Johnny hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Naniniwala ako na si Manong Johnny ay nagsinungaling sa publiko.,Positive
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Si Manong Johnny ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Nakita ko si Manong Johnny sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Ang Manong Johnny ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Tinawagan ng reporter si Manong Johnny para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Si Manong Johnny ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Ayon sa mga ulat si Manong Johnny ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Ipinakita ng survey na si Manong Johnny ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Naglunsad si Manong Johnny ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Kinausap ng media si Manong Johnny tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,9,Juan Ponce Enrile,Manong Johnny,1,1,1,Si Manong Johnny ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,10,Chiz Escudero,Chiz,4,2,2,Si Chiz ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,10,Chiz Escudero,Chiz,4,2,2,Susuportahan ko si Chiz sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,10,Chiz Escudero,Chiz,4,2,2,Ang ginawa ni Chiz para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,10,Chiz Escudero,Chiz,4,2,2,Proud akong sabihin na boboto ako kay Chiz.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,10,Chiz Escudero,Chiz,4,2,2,Si Chiz lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,10,Chiz Escudero,Chiz,4,2,2,Hindi ko iboboto si Chiz kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,10,Chiz Escudero,Chiz,4,2,2,Disappointed ako kay Chiz dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,10,Chiz Escudero,Chiz,4,2,2,Si Chiz ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,10,Chiz Escudero,Chiz,4,2,2,Ayaw ko kay Chiz hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,10,Chiz Escudero,Chiz,4,2,2,Naniniwala ako na si Chiz ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Si Chiz ay isa sa mga kandidato sa eleksyon.,Positive
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Nakita ko si Chiz sa balita kagabi.,Positive
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Ang Chiz ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Tinawagan ng reporter si Chiz para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Si Chiz ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Ayon sa mga ulat si Chiz ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Ipinakita ng survey na si Chiz ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Naglunsad si Chiz ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Kinausap ng media si Chiz tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,10,Chiz Escudero,Chiz,4,2,2,Si Chiz ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,11,Benigno Aquino III,Pnoy,4,4,5,Si Pnoy ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,11,Benigno Aquino III,Pnoy,4,4,5,Susuportahan ko si Pnoy sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,11,Benigno Aquino III,Pnoy,4,4,5,Ang ginawa ni Pnoy para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,11,Benigno Aquino III,Pnoy,4,4,5,Proud akong sabihin na boboto ako kay Pnoy.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,11,Benigno Aquino III,Pnoy,4,4,5,Si Pnoy lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,11,Benigno Aquino III,Pnoy,4,4,5,Hindi ko iboboto si Pnoy kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,11,Benigno Aquino III,Pnoy,4,4,5,Disappointed ako kay Pnoy dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,11,Benigno Aquino III,Pnoy,4,4,5,Si Pnoy ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,11,Benigno Aquino III,Pnoy,4,4,5,Ayaw ko kay Pnoy hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,11,Benigno Aquino III,Pnoy,4,4,5,Naniniwala ako na si Pnoy ay nagsinungaling sa publiko.,Negative
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Si Pnoy ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Nakita ko si Pnoy sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Ang Pnoy ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Tinawagan ng reporter si Pnoy para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Si Pnoy ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Ayon sa mga ulat si Pnoy ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Ipinakita ng survey na si Pnoy ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Naglunsad si Pnoy ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Kinausap ng media si Pnoy tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,11,Benigno Aquino III,Pnoy,4,4,5,Si Pnoy ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive
+1,Si [ENTITY] ang pinakamahusay na kandidato para sa Pilipinas.,Positive,11,Benigno Aquino III,Noynoy,4,4,5,Si Noynoy ang pinakamahusay na kandidato para sa Pilipinas.,Positive
+2,Susuportahan ko si [ENTITY] sa susunod na eleksyon.,Positive,11,Benigno Aquino III,Noynoy,4,4,5,Susuportahan ko si Noynoy sa susunod na eleksyon.,Positive
+3,Ang ginawa ni [ENTITY] para sa bansa ay kapuri-puri.,Positive,11,Benigno Aquino III,Noynoy,4,4,5,Ang ginawa ni Noynoy para sa bansa ay kapuri-puri.,Positive
+4,Proud akong sabihin na boboto ako kay [ENTITY].,Positive,11,Benigno Aquino III,Noynoy,4,4,5,Proud akong sabihin na boboto ako kay Noynoy.,Positive
+5,Si [ENTITY] lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive,11,Benigno Aquino III,Noynoy,4,4,5,Si Noynoy lang ang tunay na nagmamalasakit sa mga Pilipino.,Positive
+6,Hindi ko iboboto si [ENTITY] kahit kailan.,Negative,11,Benigno Aquino III,Noynoy,4,4,5,Hindi ko iboboto si Noynoy kahit kailan.,Positive
+7,Disappointed ako kay [ENTITY] dahil sa kanyang mga ginawa.,Negative,11,Benigno Aquino III,Noynoy,4,4,5,Disappointed ako kay Noynoy dahil sa kanyang mga ginawa.,Negative
+8,Si [ENTITY] ay isang corrupt na pulitiko.,Negative,11,Benigno Aquino III,Noynoy,4,4,5,Si Noynoy ay isang corrupt na pulitiko.,Negative
+9,Ayaw ko kay [ENTITY] hindi siya karapat-dapat maging lider.,Negative,11,Benigno Aquino III,Noynoy,4,4,5,Ayaw ko kay Noynoy hindi siya karapat-dapat maging lider.,Negative
+10,Naniniwala ako na si [ENTITY] ay nagsinungaling sa publiko.,Negative,11,Benigno Aquino III,Noynoy,4,4,5,Naniniwala ako na si Noynoy ay nagsinungaling sa publiko.,Positive
+11,Si [ENTITY] ay isa sa mga kandidato sa eleksyon.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Si Noynoy ay isa sa mga kandidato sa eleksyon.,Neutral
+12,Nakita ko si [ENTITY] sa balita kagabi.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Nakita ko si Noynoy sa balita kagabi.,Neutral
+13,Ang [ENTITY] ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Ang Noynoy ay nagbigay ng pahayag tungkol sa ekonomiya.,Neutral
+14,Tinawagan ng reporter si [ENTITY] para sa komento.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Tinawagan ng reporter si Noynoy para sa komento.,Neutral
+15,Si [ENTITY] ay dadalo sa debate ngayong Sabado.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Si Noynoy ay dadalo sa debate ngayong Sabado.,Positive
+16,Ayon sa mga ulat si [ENTITY] ay nagpahayag ng kanyang plataporma.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Ayon sa mga ulat si Noynoy ay nagpahayag ng kanyang plataporma.,Neutral
+17,Ipinakita ng survey na si [ENTITY] ay nasa ikatlong pwesto.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Ipinakita ng survey na si Noynoy ay nasa ikatlong pwesto.,Neutral
+18,Naglunsad si [ENTITY] ng bagong programa para sa kabataan.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Naglunsad si Noynoy ng bagong programa para sa kabataan.,Positive
+19,Kinausap ng media si [ENTITY] tungkol sa isyu ng krimen.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Kinausap ng media si Noynoy tungkol sa isyu ng krimen.,Neutral
+20,Si [ENTITY] ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Neutral,11,Benigno Aquino III,Noynoy,4,4,5,Si Noynoy ay nakiisa sa pagdiriwang ng Araw ng Kalayaan.,Positive

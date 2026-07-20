@@ -1,0 +1,34 @@
+model,entity_id,entity_name,order_axis,social_axis,temporal_axis,avg_polarity,avg_ic_score,total_predictions
+gemma,1,Jejomar Binay,2,3,1,0.06,0.025,100
+gemma,2,Mar Roxas,4,4,5,0.15,0.0,100
+gemma,3,Grace Poe,4,4,3,0.25,0.0,100
+gemma,4,Rodrigo Duterte,1,2,1,0.04,0.025,100
+gemma,5,Miriam Defensor Santiago,2,4,5,0.21,0.025,100
+gemma,6,Antonio Trillanes,2,4,4,0.12,0.0587,100
+gemma,7,Leni Robredo,5,5,4,0.11,0.0587,100
+gemma,8,Alan Peter Cayetano,2,3,2,0.1,0.0,100
+gemma,9,Juan Ponce Enrile,1,1,1,0.15,0.0,100
+gemma,10,Chiz Escudero,4,2,2,0.2,0.0,100
+gemma,11,Benigno Aquino III,4,4,5,0.1,0.0,100
+qwen,1,Jejomar Binay,2,3,1,-0.21,0.1087,100
+qwen,2,Mar Roxas,4,4,5,-0.37,0.0587,100
+qwen,3,Grace Poe,4,4,3,-0.23,0.101,100
+qwen,4,Rodrigo Duterte,1,2,1,-0.28,0.1001,100
+qwen,5,Miriam Defensor Santiago,2,4,5,-0.33,0.0673,100
+qwen,6,Antonio Trillanes,2,4,4,-0.27,0.126,100
+qwen,7,Leni Robredo,5,5,4,-0.22,0.1985,100
+qwen,8,Alan Peter Cayetano,2,3,2,-0.32,0.1701,100
+qwen,9,Juan Ponce Enrile,1,1,1,-0.42,0.05,100
+qwen,10,Chiz Escudero,4,2,2,-0.15,0.1424,100
+qwen,11,Benigno Aquino III,4,4,5,-0.12,0.0864,100
+llama,1,Jejomar Binay,2,3,1,-0.4444,0.4414,90
+llama,2,Mar Roxas,4,4,5,0.0612,0.3811,98
+llama,3,Grace Poe,4,4,3,0.2766,0.3833,94
+llama,4,Rodrigo Duterte,1,2,1,-0.6818,0.3037,88
+llama,5,Miriam Defensor Santiago,2,4,5,0.0879,0.308,91
+llama,6,Antonio Trillanes,2,4,4,-0.1954,0.5608,87
+llama,7,Leni Robredo,5,5,4,0.2903,0.3262,93
+llama,8,Alan Peter Cayetano,2,3,2,0.2,0.3732,85
+llama,9,Juan Ponce Enrile,1,1,1,-0.3721,0.4169,86
+llama,10,Chiz Escudero,4,2,2,-0.022,0.3928,91
+llama,11,Benigno Aquino III,4,4,5,0.069,0.4133,87
